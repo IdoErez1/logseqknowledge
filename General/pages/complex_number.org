@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       67bb81da-f57f-4658-b418-fd8ebc960817
+:END:
+#+title: complex number
+#+date: [2022-06-25 Sat 23:30]
+#+filetags: :Mathemathetics:
+
+* Content
+** A complex number is an ordered pair \[ (a, b) \in \mathbb{R} \]  
+** usually written in the form \[ a + b i \] 
+** The set of all complex numbers is denoted by \[ \mathbb{C} = a + bi : a, b \in \mathbb{R}  \]
+** 
+
+* References
+**  

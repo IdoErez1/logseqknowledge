@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       74199f34-7d52-4c67-9573-baf0c32fef70
+:END:
+#+title: low density lipoproteins
+#+date: [2022-06-22 Wed 14:19]
+#+filetags: :Health:Anatomy:
+
+* Content
+** [[id:71f21efc-d8e8-43ce-abea-4ba2f2e93c11][lipoproteins]] that have a high amount of [[id:428a0e92-c8ba-453d-81c0-a25210bbc977][cholesterol]] and a lower density of [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]]
+** refered to as LDL
+** are considered unhealth
+*** stick to the arteries and can damage blood flow
+** healthy amount of LDL should ideally be under 100 ml/dl
+*** the lower the better
+** many factors affect the amount of LDL such as:
+*** smoking increases LDL
+*** nutrition
+**** [[id:62651aa0-8b73-46bf-85f6-b46810574fb1][saturated fat]] increase LDL
+
+
+
+* References

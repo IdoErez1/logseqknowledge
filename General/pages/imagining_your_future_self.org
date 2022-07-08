@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f895804a-9e44-4d4b-9b78-560cde463038
+:END:
+#+title: Imagining your future self
+#+date: [2022-06-21 Tue 14:09]
+* Content
+** A person is usually very disconnected from his future self. He thinks of him as practically a stranger 
+** The more disconnected you are for your future self the more you are likely to [[id:778e7de2-6196-4aee-b597-c84e17f68d49][procrastinate]] or make decisions that don't regard the future
+** If you are more connected to your future self you are more likely to make decisions like:
+*** Saving for retirement
+*** doing things now instead of delaying them for tomorrow
+*** give your future self more tasks
+** Writing a letter to your future self or seeing a virtual image can help you feel more connected to him.
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e2674120-b2aa-492c-80c9-3c6f0da2978d
+:END:
+#+title: addiction withdrawal
+#+date: [2022-06-26 Sun 15:41]
+#+filetags: 
+
+* Content
+** the intense unpleasantness from [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]] withdrawal usually lasts only for a few days
+** [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] however is super sensitive for a lot longer after that, and when the brain feels like it's in danger it will feel an urge to return to the [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]]
+*** this is because the [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]] "fools" the brain by making it think that the addiction is a very important thing for survival, so when the body is in [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][physiological stress]] and feels it's in danger it will want to return to the [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]]
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.168]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       eccf8847-286c-4f21-8692-0edde1ef9890
+:END:
+#+title: democratic norms
+#+date: [2022-06-19 Sun 23:02]
+* Content
+** democratic norms are rules that are not written in the law and are critical for protecting democracy
+** There are many democratic norms but 2 critical ones are:
+*** Mutual toleration - the understanding that the other side has a legitimate opinion, and that they too only want what is best for the country. They are not the enemy we need to destroy
+*** Forbearance/Self control - A leader with power does not need to always use it. Just because something is legal doesn't mean it needs to be done. for example just because the president can pardon a criminal that doesn't mean he should pardon a lot of criminals.
+** These two norms are related to each other because if someone doesn't see the other side as the enemy then they won't be tempted to use their power.
+** [[id:a610a675-dcb5-4449-b51a-18945ec7e935][political polarization]] can destroy norms, since polarization makes people radical enough so that they both see each other as enemy and encorage excess use of power. it can also encorage violence
+
+* Related Pages
+
+* References
+[[id:ca23a014-aa9d-41ef-9cad-b8399adf9f3e][How Democracies Die]][p. 100-116]

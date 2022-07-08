@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6988bbb0-5a4a-4962-aa65-2ce89d4beab5
+:END:
+#+title: signaling in the brain
+#+date: [2022-06-24 Fri 07:17]
+#+filetags: :Neurology:
+
+* Content
+** Everything we do or think is a result of [[id:414f3e05-bb76-4f1b-83fd-726d0750fe91][neurons]] firing
+** About 80% of the brains signaling activity is carried out by glutamate and amma-aminobutyric acid(GABA).
+** When glutamate delivers a signal between 2 [[id:414f3e05-bb76-4f1b-83fd-726d0750fe91][neurons]] that haven't spoken before, the connection strengthens.
+*** The more they communicate the stronger the connection
+*** This is why it is said [[id:414f3e05-bb76-4f1b-83fd-726d0750fe91][neurons]] that fire together wire together
+
+* References
+[[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

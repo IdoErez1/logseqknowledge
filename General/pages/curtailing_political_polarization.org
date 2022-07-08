@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       4a2d5e15-3c2d-432a-bbad-1ec23d4406ed
+:END:
+#+title: Curtailing political polarization
+#+date: [2022-06-20 Mon 07:07]
+* Content
+** [[id:a610a675-dcb5-4449-b51a-18945ec7e935][political polarization]] is a very dangerous things
+** There are various things the leaders of the country can do in order to try and avoid it's dangers:
+*** Accept the [[id:a610a675-dcb5-4449-b51a-18945ec7e935][political polarization]] as a given and try to make up for it with negotiations, compromises and working together at the political level. This can help reduce the dissatisfaction of the other opinion and might prevent radical actions
+*** Try to reduce the political polarization. It can be attempted to be done in a number of ways:
+**** Try to reduce economic, social and racial inequalities.
+***** This can be done using economic and social reforms. with options like:
+****** Free schooling
+****** Basic universal income
+***** Reforms such as economic ones can both increase and decrease poliarization, therefore it is important to have something that helps everyone
+****** Something that helps only the weak and poor and anger some people
+**** Encorage Toleration
+***** Have mixed schools and increase interaction between different groups
+***** Encorage variaty in different workplaces and society
+
+* Related Pages
+
+* References
+[[id:ca23a014-aa9d-41ef-9cad-b8399adf9f3e][How Democracies Die]]

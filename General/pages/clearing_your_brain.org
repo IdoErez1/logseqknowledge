@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       4378774f-b294-4bde-a57e-d936cb38d138
+:END:
+#+title: clearing your brain
+#+date: [2022-06-22 Wed 00:22]
+#+filetags: :Productivity:
+
+* Content
+** The human brain is not good at holding large amounts of information
+*** It wastes resources and can damage focus and concentration
+*** Uses working memory
+** it is useful to release the brain from the burden of the information by writing it down
+** [[id:9880bf54-c797-47f2-8188-81af375fff00][zeigarnik effect]]
+** when you write things down it no longer needs to use your working memory
+** you should carry a notebook everywhere and write many lists
+** lists examples:
+*** shopping list
+*** task list
+*** meetings list
+*** schedual & calender
+*** worry list - when you feel like you are losing control because of your worries you can empty them on paper
+*** waiting list - everything you are waiting for - packages that are supposed to arrive, money someone owns you, an email you are waiting for a response on.
+*** etc.
+** One should not create too many lists since that too damages productivity - you will be occupied with list making you will work less.
+* References
+[[@The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy]]

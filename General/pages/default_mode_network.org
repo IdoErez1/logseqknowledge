@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       42f08886-5d19-44a0-8b85-a94eaaf1f387
+:END:
+#+title: default mode network
+#+date: [2022-06-22 Wed 00:45]
+#+filetags: :Productivity:Focus:
+
+* Content
+** when the brain isn't focused on anything it is in wandering mode
+** in wandering mode the brain is more creative and can connect things from various subjects and think of new ideas
+** It is useful to take a break when you are stuck and let your mind wander when stuck. this allows you to find another way to solve the problem
+** activites that cause the brain to enter the default mode network and reduce stress:
+*** sport or exercise
+*** reading
+*** meditation
+*** music
+*** creative hobby
+*** prayer
+*** walk in nature
+*** spending time with family and friends
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]
+

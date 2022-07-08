@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       42aa4f8b-3405-4210-913c-9b1fc2968da3
+:END:
+#+title: uses of fat
+#+date: [2022-06-22 Wed 11:24]
+#+filetags: :nutrition:
+
+* Content
+** Fat is used for a number of different things:
+*** Energy for the cells
+*** storage of energy
+*** protection of organs
+*** help preserve body warmth
+*** helps absorb nutriants
+*** produce important hormones
+* References
+** https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/fats/dietary-fats

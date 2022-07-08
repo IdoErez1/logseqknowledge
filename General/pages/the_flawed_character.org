@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       330dbd30-3623-49ee-b4ac-eff187edb7ab
+:END:
+#+title: the flawed character
+#+date: [2022-06-20 Mon 10:39]
+#+filetags: :Storytelling:
+
+* Content
+** we meet characters in stories that are flawed in some way. this helps us identify emotionally with the character.
+** Their mistakes(created by the flaws) and their effort are what drives the story.
+** changing yourself and your flaws is hard and you usually aren't aware of them.
+** identifying and trying to change requires breaking up the world as you know it and building it up again
+** most of the time we will try to resist the change
+** the person who succeeds in changing is called the hero
+** One way that authors create flaws is create a wrong image of reality and belief for the character
+* References
+[[@The Science of Storytelling: Why Stories Make Us Human and How to Tell Them Better]] /
+* $$a=2**2$$
+* $\sin{x} = \sin{180 - x}$
+*

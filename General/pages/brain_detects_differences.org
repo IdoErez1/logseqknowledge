@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0ace8e0d-6d3b-426e-b095-4ea2b50b21b8
+:END:
+#+title: Brain detects differences
+#+date: [2022-06-20 Mon 07:22]
+#+filetags: :Neurology:Storytelling:
+
+* Content
+** The brain is an expert at noticing change
+** When the brain detects a change it tells you "Wake up, something is happening"
+** It is in fact so effective that most stories begin with a change to grab your attention
+*** These changes hint at a future problem
+*** Change arouses the curiousity and imagination. causing pleasure
+** Causes release of dopamine which causes a pleasant sensation
+
+* References
+[[id:3ec551c8-3088-4cd7-b290-b703e790b5c0][The Science of StoryTelling]]

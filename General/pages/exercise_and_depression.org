@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2260c02f-ae18-48e5-98bf-b1b3ee7f5e14
+:END:
+#+title: exercise and depression
+#+date: [2022-06-26 Sun 07:36]
+#+filetags:
+
+* Content
+** [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] is an used and recognized treatment for [[id:9049269e-a96a-4b55-9a05-4ee9a25bb09c][depression]]
+** Specifically, every 50 minutes of weekly exercise is corrolated a 50% drop in the odds of being depressed[p.119]
+** Exercise boosts [[id:0a077843-9f9a-4c96-b526-765a1a376146][brain derived neurotrophic factor]] as much as antidepressents do
+** Exercise and antidepressents combined can spike [[id:0a077843-9f9a-4c96-b526-765a1a376146][brain derived neurotrophic factor]] by as much as 250%!
+** the recommended "dose" is around 30 minutes of aerobic exercise on most days(around 3 hours a week)
+** 
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

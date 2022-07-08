@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f5fa46ca-f8d1-48f9-abe1-51ca852e52ad
+:END:
+#+title: effects of physical exercise on focus
+#+date: [2022-06-23 Thu 21:01]
+#+filetags: :Health:Psychology:
+
+* Content
+** Has positive effects on the [[id:72d6ab04-2d6f-4983-88a8-8ae5bb478e76][attention system]] and [[id:bda8e215-e14b-47fb-aad0-2c6907ee8338][attention deficit disorder]]
+*** even for people without [[id:bda8e215-e14b-47fb-aad0-2c6907ee8338][attention deficit disorder]] it improves [[id:b2801aee-8a48-4128-8336-79ba9b9100e3][focus]]
+** the cerebellum - the part of the brain controlled by movement also coordinates the flow of information.
+** 
+
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

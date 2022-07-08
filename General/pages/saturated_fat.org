@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       62651aa0-8b73-46bf-85f6-b46810574fb1
+:END:
+#+title: saturated fat
+#+date: [2022-06-22 Wed 10:44]
+#+filetags: :nutrition:
+
+* Content
+** [[id:b94b2fbc-9eb9-4bdb-9a3f-5a7cbb9e7b31][fat]] in the body that is created from saturated fatty acids
+** Is "Saturated" with an additional water molecule that makes it straight unlike [[id:ddcb8e37-61f2-496e-a603-152f363685ca][unsaturated fat]]
+** Increases levels of [[id:74199f34-7d52-4c67-9573-baf0c32fef70][low density lipoproteins]]
+** Tends to be solid at room temperature
+** Usually comes from animal sources
+* References
+** [[@The Diet Compass: The 12-Step Guide to Science-Based Nutrition for a Healthier and Longer Life]]
+** [[@The Diet Myth: The Real Science Behind What We Eat]]
+*

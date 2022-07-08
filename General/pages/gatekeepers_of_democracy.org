@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a1081c34-b45e-4e87-b382-18fc3ca1bbe1
+:END:
+#+title: Gatekeepers of Democracy
+#+date: [2022-06-19 Sun 19:15]
+* Content
+** The people and Institutes that can protect democracy from autocratic and anti-democratic threats
+** These are mainly parties and leaders who have the [[id:5e14546e-2859-4c34-8d09-b58cd36914e6][potential signs of being an autocratic leader]].
+** These Include people like the political parties and political leaders
+*** political parties and leaders can help defend democracy [[id:6ad3bd9a-6209-4974-993e-c742e88ae663][from an authoritarian leader in a number of ways]]
+*** This can come at a risk of losing votes and public support for the political party but it is a necessary risk in order to protect democracy.
+** The Press is another guardian of democracy since it can help spread awareness and criticism on the political leader.
+** There are 2 reasons why Political leaders give power up to the dangerous demagogue:
+*** The belief that if he is given a position he can be controlled and contained
+*** When there is enough simularites between the demagogue and the leader that he prefers to choose the dangerous demagogue over the less dangerous person with a different opinion
+
+
+* Related Pages
+
+* References
+** [[id:ca23a014-aa9d-41ef-9cad-b8399adf9f3e][How Democracies Die]][p. 25-30]
+** Citizenship notebook
+

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       b9237cc7-71e2-41e0-9020-956aba900c2c
+:END:
+#+title: cerebral cortex
+#+date: [2022-06-26 Sun 23:14]
+#+filetags: :Neurology:
+
+* Content
+** The entire outer layer of the [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][brain]]
+** associated with our highest mental capabilites
+** called gray matter because unlike the rest of the brain, the outerpart layer of the brain is not covered in myelin, therefore not having the whitish color myelin gives but has a gray color instead
+** responsible for higher level skills such as:
+*** language
+*** memory
+*** reasoning
+*** thought
+*** [[id:65ce0268-d9b1-42f4-9534-835efaf8165d][learning in the brain]]
+*** decision makeing
+*** intelligence
+*** personality
+** Is made up of 4 lobes:
+*** [[id:13c6d125-f9d7-4fd7-91e1-0983fac04cea][parietal lobe]]
+*** [[id:ed103d7c-c7c9-4586-ae9f-81ce0306f8ba][temporal lobe]]
+*** [[id:17a329b3-14f6-43dc-ae7c-d4bb65a7281b][frontal lobe]]
+*** [[id:025bb66d-0f73-446e-995d-606eac05a8ae][occipital lobe]]
+** #+DOWNLOADED: screenshot @ 2022-06-27 12:04:37
+[[file:../../Pictures/org-downloads/Content/2022-06-27_12-04-37_screenshot.png]]
+* References
+** https://my.clevelandclinic.org/health/articles/23073-cerebral-cortex

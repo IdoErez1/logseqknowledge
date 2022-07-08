@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       6d16c065-106f-4d96-89c6-98fe202de9e5
+:END:
+#+title: rule of threes
+#+date: [2022-06-21 Tue 13:23]
+#+filetags: :Productivity:
+
+* Content
+** At the begining of the day try to imagine yourself at the end of the day, ask yourself what 3 things would you have liked to acomplish
+** This will allow you to work in a more focused way
+** At the begining of every week try to do the same thing for the entire week
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       c1f7b72b-2a46-4f05-b809-8bec5534620e
+:END:
+#+title: factors that affect weight
+#+date: [2022-06-22 Wed 16:02]
+#+filetags: :Health:
+
+* Content
+** Diet
+** genetics
+** lifestyle
+** culture
+** family/friends
+** [[id:9ebbb188-1440-4412-aa34-4d8b8b839171][microbes in the human body]]
+
+* References

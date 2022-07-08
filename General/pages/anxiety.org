@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7e0c6768-32db-4385-b319-753e21b12d1d
+:END:
+#+title: anxiety
+#+date: [2022-06-25 Sat 21:52]
+#+filetags: :psychology:
+
+* Content
+** if you worry when there is no threat, to the point where you can't function normally, that's anxiety disorder
+*** in fact, in real threatening situations people with anxiety react the same as people without
+** examples of anxiety disorders:
+*** generalized anxiety disorder
+**** someone with generalized anxiety responds to a normal situation as if it were threatening
+*** panic disorder
+*** specific phobias
+*** social anxiety
+** shares the same physical symptomes as severe [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][stress]] response as well as simular dysfunctions in the brain
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.86, p.93]

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a0b91473-c4ad-4362-ad7c-2480035bc732
+:END:
+#+title: blood pressure
+#+date: [2022-06-28 Tue 22:55]
+#+filetags: :Anatomy:
+
+* Content
+** The pressure of the blood against your arteries
+** Has two measures:
+*** Diastolic blood pressure - the pressure in the arteries between heart beats - the resistance in blood flow
+*** Systolic blood pressure - the pressure in the arteries during the heart beat - the force of blood flow 
+** [[id:4780eb15-4fd5-45ad-84dd-ccd364f26078][high blood pressure]]
+
+* References
+** https://www.webmd.com/hypertension-high-blood-pressure/guide/diastolic-and-systolic-blood-pressure-know-your-numbers

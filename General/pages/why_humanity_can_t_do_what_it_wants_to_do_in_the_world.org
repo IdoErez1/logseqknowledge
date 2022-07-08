@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       99784690-6005-409d-bad8-3852f2222a60
+:END:
+#+title: why humanity can't do what it wants to do in the world
+#+date: [2022-06-22 Wed 08:35]
+
+* Content
+** There are 3 reasons why humanity doesn't manage to do what it wants to do:
+*** inevitable failiure - things that humanity could never know or do since they are beyond our capabilities
+*** ignorance - things we don't know how to do yet. but could be possible in the future
+*** inability - the knowledge exists, but we fail at the execution. this can include the skyscraper that collapses because it was not built right, or the injury that the doctors forgot to ask about
+* References
+[[@The Checklist Manifesto: How to Get Things Right]]

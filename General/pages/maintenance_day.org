@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       52de5c58-7c4f-4652-9c24-4ac6a2913cf2
+:END:
+#+title: maintenance day
+#+date: [2022-06-22 Wed 00:17]
+* Content
+** having a single day to do all your chores and unwanted tasks
+** these are tasks that are not urgent
+** examples include:
+*** clean the house
+*** do shopping
+*** cook food for the week
+** these kind of tasks are usually low return and take a long time
+*** [[id:554405b6-1d92-41e0-bbac-6610d88c8896][Making decisions]]
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

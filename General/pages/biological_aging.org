@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       998bfe87-d5da-4a21-9e33-0596b14ef17e
+:END:
+#+title: biological aging
+#+date: [2022-06-26 Sun 21:18]
+#+filetags:
+
+* Content
+** TODO add info from page 208 from Spark 
+** TODO add info from book lifespan why we age and why we don't have to 
+
+* References
+**  

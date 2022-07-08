@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7ebb4a36-1c37-473c-a8e7-9f67ec9320ac
+:END:
+#+title: dopamine
+#+date: [2022-06-23 Thu 20:07]
+#+filetags: :Neurology:
+
+* Content
+** A [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitter]] typically associated with pleasure
+** A part of the [[id:72d6ab04-2d6f-4983-88a8-8ae5bb478e76][attention system]] and is used in [[id:29e97133-9617-475d-b0b9-bdeb2c3a5570][the reward center]]
+** involved along with [[id:2c9d39ae-aa8e-466c-9704-c963f2bb1c92][serotonin]] in the sleep wake cycle
+** [[id:9049269e-a96a-4b55-9a05-4ee9a25bb09c][depression]] is caused by dopamine imbalace
+** Methylphenidate(Ritalin) eases [[id:bda8e215-e14b-47fb-aad0-2c6907ee8338][attention deficit disorder]] by raising dopamine and thus calming the mind
+** sharpens and focuses attention
+*** this is why people with [[id:bda8e215-e14b-47fb-aad0-2c6907ee8338][ADHD]] usually have dopamine imbalace 
+
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

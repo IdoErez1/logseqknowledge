@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       133dcb36-c250-4baa-8da0-a06477480061
+:END:
+#+title: parkingson's Law
+#+date: [2022-06-20 Mon 17:57]
+#+filetags: :Productivity:
+
+* Content
+** The work you have fills the time you have to complete it
+** That means the less time you have, the faster you will finish your work
+** People work more calmly when they have more time and it will take them longer to finish their work then if they would have had less time
+
+
+* References
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

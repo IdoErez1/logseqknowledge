@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       1d595bf1-cb51-43be-a0c6-9e535196661c
+:END:
+#+title: things that hinder flow
+#+date: [2022-06-20 Mon 15:30]
+* Content
+** Genetics - Some people just have a harder time directing their [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]].
+** Attention disorder like ADD or ADHD prevent a person from directing their [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]]
+** Social differences - Can cause pressure and anxiety that prevent someone from directing their attention.
+*** These are things that are caused by racism and prejudice
+** Physical obsticles - This can be something like cold, heat, strong wind or loud noise can hurt ability to enter [[id:ccb00cf7-31a4-4a69-9942-a43df0906364][flow]]
+
+* Related Pages
+
+* References
+[[id:0e414aed-c9ad-4545-8dc4-521c59f5ea20][Flow: The Psychology of Optimal Experience]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       baea27a3-f042-4aa2-9acc-271a8a190bb5
+:END:
+#+title: paleomammalian brain
+#+date: [2022-06-26 Sun 23:07]
+#+filetags: :Neurology:
+
+* Content
+** A slightly more evolved brain than the [[id:80d04fbb-a39a-454c-ac83-e4b0f492b9b9][reptilian brain]]
+** Includes a [[id:2b1537c7-69ec-49dc-a5dd-7a53a477bf6d][limbic system]], with structures like [[id:6b5a8794-ebee-4041-a196-9133cff0f800][amygdala]] and [[id:aaf30464-2992-4ff9-8c5e-ed1f43ec161d][hippocampus]]
+** also have a certral region called the [[id:baae5965-0e99-46ac-b019-9866d41d64c8][hipothalamus]] responsible that regulates metabolism among other things
+
+* References
+**  [[id:0b77b034-76c1-4677-859f-dbc8ba1ca3b0][A History of the Human Brain: From the Sea Sponge to CRISPR, How Our Brain Evolved]]

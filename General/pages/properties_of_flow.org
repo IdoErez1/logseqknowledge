@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e9ed4f8a-4b8c-4e0a-be91-ae57f9cd3f6a
+:END:
+#+title: Properties of flow
+#+date: [2022-06-20 Mon 15:17]
+* Content
+** Clear Goal and immediate feedback - you know what you want to do and you have a way to tell you how good you are doing and how to fix yourself in order to accomplish your goal.
+*** For example a pianist knows the piece he needs to play and can hear when he makes a mistake and knows how to fix it 
+** Complete focus on the task - you forget all your problems in life and all the irrelevent things. The only thing that you are paying attention to is what you are doing now.
+** Feeling of control - you feel in control of your reality. you don't feel the danger from what you are doing even when it is something dangerous like mountain climbing
+** Loss of self consciousness - You don't think about the past, present or future, your feelings and emotions. You forget yourself.
+** Loss of sense of time - This can go two ways. Either you feel like a long time passes in an instant. or you feel like a short moment lasts forever.
+
+* Related Pages
+
+* References
+[[id:0e414aed-c9ad-4545-8dc4-521c59f5ea20][Flow: The Psychology of Optimal Experience]]

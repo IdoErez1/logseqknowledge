@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e8ee47f5-3cf6-44bb-b712-08bee7dea347
+:END:
+#+title: managing time
+#+date: [2022-06-22 Wed 00:06]
+#+filetags: :Productivity:
+
+* Content
+** Today time isn't as valuable of a resource as it was in the past
+*** True value is created from deep work which requires creativity and concentration 
+** if you increase your work hours it reduces the time you have to yourself to create space and gather energy, and can lead to a reduction in productivity
+*** Therefore there is an optimal amount of work hours that leads to maximum productivity
+*** Some people think that if you neglect chores then you will have more time and increase productivity. this is not true since neglecting chores damages our daily routine and harm your healthy lifestyle.
+** reducing the time allocated to a task also increases the productivity. This is called [[id:133dcb36-c250-4baa-8da0-a06477480061][Parkingson's Law]]
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

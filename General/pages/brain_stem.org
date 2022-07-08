@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b886df24-038c-4626-9e2d-d2911c7dbbbf
+:END:
+#+title: brain stem
+#+date: [2022-06-25 Sat 19:34]
+#+filetags: :Neurology:
+
+* Content
+** A very primitive part of the brain found in the [[id:80d04fbb-a39a-454c-ac83-e4b0f492b9b9][reptilian brain]] area
+** Functions:
+*** breathing
+*** sleeping
+*** heart rate
+*** eating
+*** also plays a role in conducting - information from [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] to the body passes through the brain stem, since it is connected to the spinal cord
+** Is made up of:
+*** Midbrain - regulates eye movements
+*** Pons - coordinates facial movement, balance and hearing
+*** medulla oblongata - helps regulate breathing, heart rhythem, blood pressure and swallowing
+** #+DOWNLOADED: screenshot @ 2022-06-27 06:43:53
+[[file:../../Pictures/org-downloads/Content/2022-06-27_06-43-53_screenshot.png]]
+* References
+** https://my.clevelandclinic.org/health/body/21598-brainstem

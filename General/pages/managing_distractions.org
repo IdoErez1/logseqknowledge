@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       89b89e4d-87f5-4f9e-9313-85afc610d6e5
+:END:
+#+title: managing distractions
+#+date: [2022-06-22 Wed 00:56]
+#+filetags: :Productivity:
+
+* Content
+** Many times phone notification or emails hurt your consentration. even if they don't hurt your time that much they are catastrophic for your focus
+** damage to foucus are very damaging to productivity
+** therefore it is ideal to shut off your phone and notifications
+** this is true for any to tasks you are doing [[id:d1d1824a-2838-49b9-b1e1-701401922574][multitasking]]
+** often times distractions are triggered by [[id:8e1fbc6a-882e-4783-8194-c1f304dbb4d0][habits]]
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

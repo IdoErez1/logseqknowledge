@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ed103d7c-c7c9-4586-ae9f-81ce0306f8ba
+:END:
+#+title: temporal lobe
+#+date: [2022-06-27 Mon 12:04]
+#+filetags: :Neurology:
+
+* Content
+** part of the [[id:b9237cc7-71e2-41e0-9020-956aba900c2c][cerebral cortex]]
+** functions include:
+*** language comprehension, speach formation, learning 
+*** memory
+*** hearing
+*** nonverbal interpretation
+*** sound-to-visual image conversion
+
+* References
+**  https://my.clevelandclinic.org/health/articles/23073-cerebral-cortex

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       8317cf8e-b042-4be1-a026-c24525b498e3
+:END:
+#+title: function
+#+date: [2022-06-30 Thu 17:09]
+#+filetags: :Mathematics:
+
+* Content
+** A group that maps to another group.
+** Like some sort of black box, you start with something and if you process it through a function you get something else
+** Definition. for every a in group A there exists a b in group B such that  $(a,b)\in G = A \times B$
+
+
+* References
+**  [[id:162c0b01-a759-4bbc-b800-4904bd6695ff][Invitation to mathematics coursera]]

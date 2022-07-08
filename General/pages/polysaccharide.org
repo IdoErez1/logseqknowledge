@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       a17219ca-e928-408e-a4a9-58526511e11a
+:END:
+#+title: polysaccharide
+#+date: [2022-06-22 Wed 15:12]
+#+filetags: :Nutrition:Health:
+
+* Content
+** A chain of [[id:14d81774-6fc7-408c-b0a4-229cc6019172][monosaccharides]]
+** Examples include:
+*** Starch
+*** Cellulose
+*** Glycogen
+** plants store the [[id:4ef85778-a2e7-4ab9-a834-45adf44e6e82][sugar]] they generate inside their roots for late use in the form of Starch
+
+* References

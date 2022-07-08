@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       b2801aee-8a48-4128-8336-79ba9b9100e3
+:END:
+#+title: focus
+#+date: [2022-06-22 Wed 08:11]
+* Content
+** the ability to direct [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention psychology]]
+
+* References

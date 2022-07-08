@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4ef85778-a2e7-4ab9-a834-45adf44e6e82
+:END:
+#+title: sugar
+#+date: [2022-06-22 Wed 15:23]
+#+filetags: :Health:Nutrition:
+
+* Content
+** A type of [[id:7ed3533d-9ca8-4534-ab2f-53220c79de8d][carbohydrates]]
+** It can be divided into 2 kinds:
+*** [[id:14d81774-6fc7-408c-b0a4-229cc6019172][monosaccharide]]
+*** [[id:254a5311-c641-46e5-95ef-dda12fe3f36d][disaccharide]]
+
+* References

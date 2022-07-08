@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       08d70bbd-9709-4516-bcca-411970ee4951
+:END:
+#+title: git branching
+#+date: [2022-06-29 Wed 14:07]
+#+filetags: :Computers:
+
+* Content
+** a branch is a different [[id:e8f0ff0e-fbb5-45ee-8330-3cf70a7daf19][git]] that you can commit to and only when you are really sure you can commit this to the main branch
+** git branch <name>    : creates new branch
+** git branch -a  : lists branchs
+** git merge <name-of-branch>  :merges two branchs together(current one + specified one) 
+** git checkout <branch-name>  :shows other branch
+** when there is a conflict during murge you need to edit the file to your prefered version and then commit it again
+** git branch -d <branch-name>   :deletes branch
+** can be used with [[id:e0848eb1-4ab4-4dfc-a6f2-587af05090ed][git remote repositories]]
+
+* References
+** [[id:589d61ed-6589-4c45-8e58-f96fc02cee22][IntroCSE course]] 
+** https://www.youtube.com/watch?v=ps3AVlnYIus

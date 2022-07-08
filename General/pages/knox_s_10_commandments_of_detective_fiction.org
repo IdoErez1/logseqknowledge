@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       529ec0ff-6a78-495c-a0fe-dac91217a4e3
+:END:
+#+title: knox's 10 commandments of detective fiction
+#+date: [2022-06-29 Wed 15:57]
+#+filetags: :Storytelling:
+
+* Content
+** Written by Ronald Knox in 1924
+*** 1. The criminal must be mentioned somewhere in the early part of the story. but his thoughts were not revealed to the reader at any point
+*** 2. All supernatural agencies are ruled out - it is something natural
+*** 3. No more than one secret room or passage
+*** 4. No using undiscovered poisons or anything that will need a long scientific explaination at the end(for example a poison that will kill you the moment you find someone is the criminal)
+*** 5. No Chinese people must be featured in the story - No racial cliches
+*** 6. No Accidents must ever help a detective, nor must he have an anaccountable intution which proves to be right
+*** 7. The detective must not be the one who commited the crime
+*** 8. The detective must declare any clues that he finds
+*** 9. The "sidekick" of the detective must not conceal from the reader any thoughts he has: his intelligence must be only very slightly lower than that of the reader
+*** 10. Twin brothers and doubles in general must not appear unless we have been prepared for them.
+
+* References
+** https://agathachristie.fandom.com/wiki/The_%E2%80%9CRules%E2%80%9D_of_Detective_Fiction 
+** https://mysteryfictions.web.unc.edu/10-commandments-ronald-knox/

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       44082111-5bb9-471b-9ba6-5111fe0d5821
+:END:
+#+title: hormones
+#+date: [2022-06-23 Thu 19:28]
+#+filetags: :Anatomy:
+
+* Content
+** hormones are the body chemical messengers
+** They affect many different proceses:
+*** Metabolism
+*** Growth
+*** Sexual functions
+*** mood
+** different from [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitters]]:
+*** belong to the endocrine system
+*** appear in both animals and plants
+*** transmitted through blood
+*** are slower - can take minutes up to days to respond
+** Examples include:
+*** [[id:346270b0-9cf6-4377-84b8-a42c611165c2][cortisol]]
+*** oxytocin
+*** [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][adrenalin]]
+* References
+** https://medlineplus.gov/hormones.html

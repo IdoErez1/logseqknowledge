@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       3ec09233-042e-4a9c-bbd7-c3d0eefc6a14
+:END:
+#+title: stress effect on the brain
+#+date: [2022-06-25 Sat 20:25]
+#+filetags:
+
+* Content
+** [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][physiological stress]] responses varies from mild to severe
+** severe stress responses activate [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain's]] [[id:b8d8f7b5-2f7f-40ff-af7d-25b0b533f391][fight or flight response]]
+** This is a complex physiological response that activates both body and brain
+** The brain needs to engrave a memory of what happend so it will not happend again
+** This response calls into action several of [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]]'s most powerful [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormones]] and [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitters]]
+** It starts when the senses detect a strong emotional response.
+** This does not have to be fear, it can also be any intense emotional response, even sexual arousal
+** This triggers the [[id:6b5a8794-ebee-4041-a196-9133cff0f800][amygdala]], which then engraves it to memory to help in the future
+** The amygdala can get the sensory data throught the [[id:124a74df-4a31-4171-b46d-549b7a505162][prefrontal cortex]] however there is an alternative route where it gets the data directly without going through the prefrontal cortex for an interpretation beforehand
+** as soon as the signal is recieves, the [[id:6b5a8794-ebee-4041-a196-9133cff0f800][amygdala]] fires the alarm - releasing various [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormones]] and [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitters]]:
+*** first [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]] is released and activates the adrenal gland to dump the [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormones]] empinephrine and [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][adrenalin]] into the blood stream
+*** this causes heart rate, blood pressure, and breathing to increase
+*** at the same time, [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]] travels to the hypothalmus, which prompt the pituitary gland to release [[id:346270b0-9cf6-4377-84b8-a42c611165c2][cortisol]]
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.64]

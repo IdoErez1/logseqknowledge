@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       4780eb15-4fd5-45ad-84dd-ccd364f26078
+:END:
+#+title: high blood pressure
+#+date: [2022-06-23 Thu 18:26]
+#+filetags: :Health:
+
+* Content
+** A high  creates pressure on your arteries
+** This can lead to heart problems
+** consistent [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] can help reduce blood pressure
+** #+DOWNLOADED: screenshot @ 2022-06-23 18:29:35
+[[file:../../Pictures/org-downloads/Content/2022-06-23_18-29-35_screenshot.png]]
+* References
+[[id:a0b91473-c4ad-4362-ad7c-2480035bc732][blood pressure]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2c9d39ae-aa8e-466c-9704-c963f2bb1c92
+:END:
+#+title: serotonin
+#+date: [2022-06-23 Thu 20:04]
+#+filetags: :Neurology:
+
+* Content
+** A [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitter]] that is often corrolated with happiness 
+** Has many key roles in the body in areas such as:
+*** Mood
+*** Sleep
+*** Digestion
+*** Nausea
+*** wound Healing
+*** bone health 
+*** blood clotting
+*** sexual desires
+** serotonin altering drugs such as fluoxentine(Prozac) helps modify brain activity that leads to [[id:9049269e-a96a-4b55-9a05-4ee9a25bb09c][depression]] anxiety and OCD
+
+* References
+** https://my.clevelandclinic.org/health/articles/22572-serotonin

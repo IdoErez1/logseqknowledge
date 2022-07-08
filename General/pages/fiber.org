@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       d4676ae7-572d-439b-870f-9bd84b6eefdf
+:END:
+#+title: fiber
+#+date: [2022-06-22 Wed 15:25]
+#+filetags: :nutrition:
+
+* Content
+** A type of [[id:7ed3533d-9ca8-4534-ab2f-53220c79de8d][carbohydrate]]
+** our body can not digest fiber.
+** our [[id:9ebbb188-1440-4412-aa34-4d8b8b839171][microbes in the human body]] can however and therefore fiber is necessary for a healthy microbal enviroment
+** plants use it to build it's infrastructure like wood or leaves because of it's flexible but strong structure
+** can reduce increase in [[id:d2abac0f-fb8c-4b0c-815a-da805c05c74d][blood sugar]]
+
+* References

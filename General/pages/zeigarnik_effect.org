@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9880bf54-c797-47f2-8188-81af375fff00
+:END:
+#+title: zeigarnik effect
+#+date: [2022-06-22 Wed 00:27]
+* Content
+** the effect that occures when an activity that has been interupted can more easily be recalled
+** people remember unfinished tasks better than finished ones.
+** this can waste cognitive resources
+*** [[id:4378774f-b294-4bde-a57e-d936cb38d138][clearing your brain]]
+** when you write things down you no longer need to remember it so the brain considers it "finished"
+
+* References
+** https://en.wikipedia.org/wiki/Zeigarnik_effect

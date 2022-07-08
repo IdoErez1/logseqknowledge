@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       47c0dee8-7865-4c88-b92e-00e1424b126c
+:END:
+#+title: how exercise helps anxiety
+#+date: [2022-06-25 Sat 23:03]
+#+filetags:
+
+* Content
+** It provides distraction - moving puts your mind on something else, not on the thing that stresses you
+** It reduces muscle tension - inturupting the negative feedback loop that worsens [[id:7e0c6768-32db-4385-b319-753e21b12d1d][anxiety]]
+** It builds brain resources - such as [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]], [[id:2c9d39ae-aa8e-466c-9704-c963f2bb1c92][serotonin]], GABA and [[id:0a077843-9f9a-4c96-b526-765a1a376146][BDNF]]
+** It teaches different outcomes - your symptoms of high heart rate and breathing don't necessary mean you have an [[id:7e0c6768-32db-4385-b319-753e21b12d1d][anxiety]] attack
+** It reroutes your circuits - prevent the [[id:6b5a8794-ebee-4041-a196-9133cff0f800][amygdala]] circuit from being so strong while it strengthens other circuits
+** It improves resilience - you can learn that you can be effective in controlling anxiety without letting it turn to panic
+** It sets you free - Makes you feel more in control
+
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.115] 

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b1b7f435-b9a0-4379-977b-aaf45488b8e8
+:END:
+#+title: personality extraversion
+#+date: [2022-06-20 Mon 10:53]
+* Content
+** Extraversion is a personality trait that is defined by how much you like being in social situations
+** extraversive people like company, attention and are assertive
+** the oposite of an extraversive person is an intraversive person.
+*** intraversive people are more quiet and enjoy being alone
+** Extraversive people are more likely to cheat on their spouce and have a car accident
+
+* Related Pages
+[[id:e5280103-5677-453a-8faf-8cfbbc67827d][big 5 personality traits]]
+
+* References

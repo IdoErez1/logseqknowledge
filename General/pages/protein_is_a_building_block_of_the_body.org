@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       edba7318-b9d6-470d-92fa-8fe22efd79ae
+:END:
+#+title: protein is a building block of the body
+#+date: [2022-06-22 Wed 10:22]
+* Content
+** [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]] does all kinds of jobs in your body:
+*** makes up:
+**** hair
+**** muscles
+**** bones
+**** nails
+*** can be used to create and deliver energy to the body
+*** helps make antibodies that fight off infections
+
+* References
+** https://www.webmd.com/diet/benefits-protein

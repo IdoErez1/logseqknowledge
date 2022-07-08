@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ROAM_ALIASES: adrenalin nororadrenaline
+:ID:       eecce8cc-1fd2-48f2-9f72-f71bd01764b5
+:END:
+#+title: norepinephrine
+#+date: [2022-06-23 Thu 19:37]
+#+filetags: :Anatomy:Biology:Neurology:
+
+* Content
+** A molecule that plays an important role in [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][stress]] and the [[id:b8d8f7b5-2f7f-40ff-af7d-25b0b533f391][fight or flight response]]
+** When in the brain it is a [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitter]] called norepinephrine but when in the body is a [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormone]] called adrenalin
+** together with adrenalin is responsible for:
+*** Increasing heart rate
+*** Increase blood pressure
+*** helps break down fat and increase [[id:d2abac0f-fb8c-4b0c-815a-da805c05c74d][blood sugar]]
+** Is released during [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] in response to the changes in [[id:40b83230-67ae-4e3d-900e-f830232a6e37][homeostasis]]
+** in the brain [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]] arouses [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]]
+* References
+* [[@Spark!: How Exercise Will Improve the Performance of Your Brain]]

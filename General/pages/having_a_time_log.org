@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1d60bf27-799e-431a-b767-ab395b2989f3
+:END:
+#+title: having a time log
+#+date: [2022-06-21 Tue 13:28]
+#+filetags: :Productivity:
+
+* Content
+** To understand how you spend or waste your time it can be usefull to keep a time log - a written track of what you are doing and when
+** Studies show that when people keep a food log they can lose twice as much weight
+** Creating a time log is a time consuming task so it is probably best just to do it once in a while to get a general image
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

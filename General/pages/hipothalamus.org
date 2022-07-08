@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       baae5965-0e99-46ac-b019-9866d41d64c8
+:END:
+#+title: hipothalamus
+#+date: [2022-06-26 Sun 23:10]
+#+filetags:
+
+* Content
+** A part of [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] that is responsible for [[id:40b83230-67ae-4e3d-900e-f830232a6e37][homeostasis]] 
+
+* References
+**  

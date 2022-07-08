@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d9e215d7-b962-42bd-ae2d-9cdfac253f91
+:END:
+#+title: complete proteins
+#+date: [2022-06-22 Wed 10:33]
+* Content
+** Contain all the essential [[id:439ec7e4-cdca-4370-a3b1-35f015dcbe35][amino acids]]
+** [[id:c4d14e06-b86d-41e4-b7fc-5da7b7169f7e][animal protein]] is usually a complete [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]]
+** [[id:760775c8-7797-4964-934d-10d2dcf94f6e][plant protein]] is usually an incomplete [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]] and needs to be complemented with other [[id:760775c8-7797-4964-934d-10d2dcf94f6e][plant proteins]]
+
+* References

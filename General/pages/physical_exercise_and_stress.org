@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       807d5d0e-12da-49fc-9a24-3f32f5b8ec6c
+:END:
+#+title: physical exercise and stress
+#+date: [2022-06-23 Thu 19:06]
+#+filetags: :Health:
+
+* Content
+** [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] can be very useful against [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][physiological stress]]
+** exercise naturally triggers [[id:346270b0-9cf6-4377-84b8-a42c611165c2][cortisol]] and [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]] which are stress [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormones]]
+** This makes your body more adapted to them the more exercise you do.
+** As a result your body handles stress better
+
+* References

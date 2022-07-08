@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       bf8e5885-8392-4003-951b-085af543b17f
+:END:
+#+title: physical exercise
+#+date: [2022-06-23 Thu 18:23]
+#+filetags: :Health:Exercise:
+
+* Content
+** [[id:b061404d-7502-49a0-b9fe-82699ba5ab7d][effects of physical exercise on the body]]
+** [[id:96493953-55ca-442b-87c4-2a4dc0e35a8c][effects of physical exercise on the brain]]
+** [[id:1a0d7f41-29e0-4f7c-81c9-a7250ecbec8f][effects of physical exercise on moon and depression]]
+** [[id:f5fa46ca-f8d1-48f9-abe1-51ca852e52ad][effects of physical exercise on focus]]
+
+* References
+[[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

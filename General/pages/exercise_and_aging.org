@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9de97c2e-0030-43d3-9baa-35d2997b5785
+:END:
+#+title: exercise and aging
+#+date: [2022-06-26 Sun 15:47]
+#+filetags:
+
+* Content
+** As we [[id:998bfe87-d5da-4a21-9e33-0596b14ef17e][age]], cells throughout the body lose the ability to adapt to [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][physiological stress]].
+** older cells have a lower threshold for combating the molecular stress of free radicals, excessive energy demands.
+** starting at age 40 we lose aproximatly 5% of our overall brain volume per decade, up until age 70, when the process is accelerated
+** if your brain isn't actively growing it is dying.
+** [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] is one of the only ways to counter the process of aging because it slows down the natural decline of the [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][stress]] threshold. 
+** In addition, since the aging brain is more vunerable to damage, exercise has a more pronounced effect then on a brain of a younger person.
+*** think of a weak person versus a strong person working out. the weaker person will grow faster
+** many studies support the evidence that exercise helps against dementia
+*** one study people who exercised twice a week were 50% less likely to have dimentia
+** TODO exercise effect on the body from other books.
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][chapter 9]

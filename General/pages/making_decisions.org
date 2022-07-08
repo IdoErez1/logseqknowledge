@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       554405b6-1d92-41e0-bbac-6610d88c8896
+:END:
+#+title: Making decisions
+#+date: [2022-06-20 Mon 17:45]
+
+* Content
+** people make many decisions a day.
+** some are more important and some are less
+** these decisions take a lot of mental energy
+** You can divide all tasks and decision into 2 variables
+*** importace
+*** time - the time it takes to complete
+** Things that are low in importance and time - should be automated
+*** don't think about them at all. create an algorithm
+*** for example decide what you will wear, create a schedual etc.
+** Things that are low in importace but high in time should be regulated
+*** give it dedicated time and don't go over the time dedicated to the task
+*** for example checking emails, organizing calender
+** Things that are high in importace but low in time should be effectuated
+*** Just do them. don't dedicate in thought into decision
+*** for example spending time with the family, taking the child from daycare
+** Things high in importace and high in time should be debated
+*** These are the important decision deserving of your mental effort
+*** for example buying a house, getting married
+** #+DOWNLOADED: screenshot @ 2022-06-20 17:53:46
+[[file:../../Pictures/org-downloads/Content/2022-06-20_17-53-46_screenshot.png]]
+** With these for partions you can significantly reduce your choices and thus save time
+* References
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]

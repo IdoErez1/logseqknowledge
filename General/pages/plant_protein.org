@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       760775c8-7797-4964-934d-10d2dcf94f6e
+:END:
+#+title: plant protein
+#+date: [2022-06-22 Wed 10:36]
+* Content
+** [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]] that comes from plants
+** usually aren't [[id:d9e215d7-b962-42bd-ae2d-9cdfac253f91][complete proteins]] and need to be complemented with each other to give all the essential [[id:439ec7e4-cdca-4370-a3b1-35f015dcbe35][amino acids]]
+** examples include:
+*** tofu
+*** lentils
+*** chickpeas
+*** peanuts
+*** almonds
+*** spirulina
+** Nuts are especially health even though they aren't [[id:d9e215d7-b962-42bd-ae2d-9cdfac253f91][complete proteins]] they can complement each other and provide a large amount of vitamins and fiber while not having any [[id:62651aa0-8b73-46bf-85f6-b46810574fb1][saturated fat]]
+
+* References

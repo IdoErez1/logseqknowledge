@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       29e97133-9617-475d-b0b9-bdeb2c3a5570
+:END:
+#+title: the reward center
+#+date: [2022-06-24 Fri 04:14]
+#+filetags: :Neurology:
+
+* Content
+** A cluster of [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]] neurons called the nucleus accumbens
+** responsible for sending pleasure and satisfaction signals to the [[id:124a74df-4a31-4171-b46d-549b7a505162][prefrontal cortex]]
+** Proveds the necessary drive or motivation to focus
+** The sort of stimulation that will capture the [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]] of the reward center varies from person to person
+** is part of the [[id:72d6ab04-2d6f-4983-88a8-8ae5bb478e76][attention system]]
+** studies show that monkey with lesions in the nucleus accumbens cannot sustain attention and muster motivation to do tasks that don't offer immediate rewards
+*** The same thing is true for people with [[id:bda8e215-e14b-47fb-aad0-2c6907ee8338][attention deficit disorder]]
+* References
+[[@Spark!: How Exercise Will Improve the Performance of Your Brain]]

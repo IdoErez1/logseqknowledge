@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       79bc4aec-12c7-4c6d-8e73-7ceb42ecbb76
+:END:
+#+title: insulin
+#+date: [2022-06-22 Wed 14:59]
+#+filetags: :Health:
+
+* Content
+** A hormone originating from the pancreas
+** when you have excess [[id:d2abac0f-fb8c-4b0c-815a-da805c05c74d][blood sugar]] rushes the excess [[id:7ed3533d-9ca8-4534-ab2f-53220c79de8d][sugar]] into the cells 
+** the more sugar you release the more insulin resistance you develop
+*** This means the body will need to generate more insulin to have the same effect
+*** when the insulin resistance is too high for the body to generate enough insulin the person will have type 2 diabetes
+
+* References

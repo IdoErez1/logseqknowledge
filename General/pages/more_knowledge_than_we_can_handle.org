@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a5ed3858-6333-4e44-9139-801e8d2ba54f
+:END:
+#+title: more knowledge than we can handle
+#+date: [2022-06-22 Wed 08:43]
+* Content
+** there are many subjects like medicine or engineering that are very complicated and require a large amount of knowledge
+** This amount of knowledge is beyond what we can carry and as a result we make many mistakes
+** in medicine for example, research shows at least half of all surgical complications are caused by human error
+** even the greatest in their fields make mistakes
+** the answer to this is [[id:0a23b756-e92e-4d8d-9e0d-5e48b4d8a8e7][checklist]]
+
+* References
+[[id:ae811ef3-6e5f-4546-be34-b00ad2eb50fa][The Checklist Manifesto]]

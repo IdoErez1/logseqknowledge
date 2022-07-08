@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ad84b446-c42f-494c-a4ea-9b0096af02dd
+:END:
+#+title: importance of sleep
+#+date: [2022-06-22 Wed 08:01]
+* Content
+** sleep like exercise is a critical area the provides a higher return to productivity then working while cutting sleep
+** It helps improve: 
+*** focus
+*** mood
+*** awareness
+*** motivation
+*** health
+** There are several [[id:b7b4dc37-cc2c-4573-b00d-5d48363ce3df][ways to improve sleep]]
+** 
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

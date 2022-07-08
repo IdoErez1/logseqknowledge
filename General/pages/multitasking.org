@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d1d1824a-2838-49b9-b1e1-701401922574
+:END:
+#+title: multitasking
+#+date: [2022-06-22 Wed 00:50]
+#+filetags: :Productivity:
+
+* Content
+** multitasking is when you do several things simultaniously
+** multitasking is basicly the brain switching tasks fast enough it gives the illusion of doing thing simultaniously.
+** whenever you multitask you need to swap what is in your [[id:19009122-eee1-4504-9b32-dc7ebe6c2251][working memory]] constantly, something that takes mental effort.
+** Therefore when you are multitasking it feels good since it feels like you are excerting yourself when you are just wasting energy
+** it is useful to disconnect from the phone and distractions so that you won't need to multitask and can focus on what you are doing
+
+* References 
+** [[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

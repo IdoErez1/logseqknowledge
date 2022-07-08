@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4702dd65-58a6-4846-916e-47c21da7d8bb
+:END:
+#+title: confirm-do checklist
+#+date: [2022-06-22 Wed 09:13]
+* Content
+** This is a type of checklist where you go over the entire list and confirm that everything was done
+
+* References
+[[id:ae811ef3-6e5f-4546-be34-b00ad2eb50fa][The Checklist Manifesto]]

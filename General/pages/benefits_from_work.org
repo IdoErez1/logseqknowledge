@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       47b91658-fdec-49ad-9444-049b1fb758f8
+:END:
+#+title: Benefits from work
+#+date: [2022-06-20 Mon 17:32]
+* Content
+** social - work provides a person a social environment
+** schedual - work gives someone a clear schedual and something to do. without something to do a man will lose himself. man needs occupation
+** stimulation - when you do the same thing all the time your life runs in automatic mode. you don't need to pay [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]] to anything. the small things in work can provide you stimulation
+** story - it gives you meaning, a purpose to your life
+
+* References
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]

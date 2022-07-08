@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       65ce0268-d9b1-42f4-9534-835efaf8165d
+:END:
+#+title: learning in the brain
+#+date: [2022-06-25 Sat 19:24]
+#+filetags: :Neurology:
+
+* Content
+** when you learn a new word for example, brain scans show the [[id:124a74df-4a31-4171-b46d-549b7a505162][prefrontal cortex]] lights up with activity. after a curcuit has been established by the firing of [[id:50002bcf-d7b9-46f9-967e-75f27339a99c][glutamate]] and has initiated the initial setup for learning it goes dark and leaves it to the rest of his workers like the [[id:aaf30464-2992-4ff9-8c5e-ed1f43ec161d][hippocampus]].
+** this is how learning things and actions become second nature. Patterns of thinking a moving that are automatic get stored in [[id:83cf5dc2-989d-423d-96c2-06603a72c84d][basal ganglia]], [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][cerebellum]] and [[id:b886df24-038c-4626-9e2d-d2911c7dbbbf][brain stem]] - primative areas of the brain
+*** [[id:9da5907c-ac8f-4fe6-b235-03dd2d9070b4][automatic thought]]
+** delegating this to other areas of [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] allows the rest of the brain to continue adapting
+** [[id:9a641264-8172-4dcb-9183-37e0b5754c08][how exercise improves learning in 3 levels]]
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p. 44]

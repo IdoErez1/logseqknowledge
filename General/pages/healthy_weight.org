@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       46c87ed4-d1cd-406a-924d-50f7d8a78f0b
+:END:
+#+title: healthy weight
+#+date: [2022-06-22 Wed 15:44]
+#+filetags: :Health:
+
+* Content
+** [[id:7f5f78f3-873b-4faf-aed3-dbc5d4dfb017][body mass index]]
+** [[id:c1f7b72b-2a46-4f05-b809-8bec5534620e][factors that affect weight]]
+** after the early 20s people start to gain a lot of weight. The weight you gain after age 20 is also a good indicator for the chance of getting a disease
+
+* References

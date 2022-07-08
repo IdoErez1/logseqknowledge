@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2538779c-9288-471d-9d37-697cf427a6db
+:END:
+#+title: exercise and addiction
+#+date: [2022-06-26 Sun 15:26]
+#+filetags:
+
+* Content
+** Exercise helps [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]] by proving a reward for a cue.
+** [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]]exercise whenever you finish [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] your brain is flooded in all kinds of molecules that make you feel good
+** this can be a reward for a new habit
+** hence, whenever you get an urge to fall into the [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]], it can be attempted to do [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]], the logic is that the [[id:8e1fbc6a-882e-4783-8194-c1f304dbb4d0][habit]] will be overwritten
+** whenever a urge will strike exercise will replace the addiction
+** in addition exercise will release the same chemicals that would probably be released from the [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]] induced activity, like [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]]
+** a 2004 study in london shows that even 10 minutes of exercise could blunt an alcoholic's craving
+*** though the bare minimum if you want to root out an [[id:004b0981-6394-4111-96b6-c253b3481c92][addiction]] is 30 minutes 5 days a week
+** [[id:e2674120-b2aa-492c-80c9-3c6f0da2978d][addiction withdrawal]]
+** 
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.168]

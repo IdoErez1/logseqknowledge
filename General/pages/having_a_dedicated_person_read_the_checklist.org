@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ad1481dd-3585-4e33-b518-c062d9ab4dc9
+:END:
+#+title: having a dedicated person read the checklist
+#+date: [2022-06-22 Wed 09:15]
+* Content
+** It is useful in a multi person activity to have a dedicated person who is responsible for checking the items and reading out loud the checklist
+** This person should be some whos focus is less important
+*** for example a nurse in an operating room or a co-pilot on the plane
+** It is important for him to read the list out loud and not just check when something was done in order to increase dialog
+
+
+* References
+[[id:ae811ef3-6e5f-4546-be34-b00ad2eb50fa][The Checklist Manifesto]]

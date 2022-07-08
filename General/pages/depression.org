@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9049269e-a96a-4b55-9a05-4ee9a25bb09c
+:END:
+#+title: depression
+#+date: [2022-06-23 Thu 19:58]
+#+filetags: :Psychology:
+
+* Content
+** A common and serious medical condition that affects how you feel 
+** [[id:0c798a11-20d1-472c-b9a0-03f57c0097e3][symptoms of depression]]
+** caused by lack of [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]] [[id:2c9d39ae-aa8e-466c-9704-c963f2bb1c92][serotonin]] and [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]]
+** In the brain:
+*** Depressed patients have an [[id:aaf30464-2992-4ff9-8c5e-ed1f43ec161d][hippocampus]] that is up to 15% smaller than their non depressed counterparts
+**** this may explain why depressed patients complain about [[id:65ce0268-d9b1-42f4-9534-835efaf8165d][learning]] and memory problems
+*** Depressed patients display low amounts of activity in the [[id:124a74df-4a31-4171-b46d-549b7a505162][prefrontal cortex]]
+*** high amounts of [[id:346270b0-9cf6-4377-84b8-a42c611165c2][cortisol]] harms [[id:6988bbb0-5a4a-4962-aa65-2ce89d4beab5][connectivity in the brain]]
+**** anti-depressiants try to improve this by increasing levels of [[id:0a077843-9f9a-4c96-b526-765a1a376146][brain derived neurotrophic factor]]
+
+** [[id:71e78c46-037b-49a3-9069-82e728bf2783][treating depression]] 
+** 
+
+* References
+[[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

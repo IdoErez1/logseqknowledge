@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       aaf30464-2992-4ff9-8c5e-ed1f43ec161d
+:END:
+#+title: hippocampus
+#+date: [2022-06-24 Fri 09:21]
+#+filetags: :Neurology:
+
+* Content
+** a part of the [[id:2b1537c7-69ec-49dc-a5dd-7a53a477bf6d][limbic system]]
+** Recieves new information from working memory and cross references that information with old knowledge for the sake of comparison and creation of new assosications, and returns it to the [[id:124a74df-4a31-4171-b46d-549b7a505162][prefrontal cortex]]
+** A memory is a collection of information fragments dispersed around the brain, the hippocampus connects all the fragments.
+** like a cartographer creating a memory map
+** #+DOWNLOADED: screenshot @ 2022-06-25 20:22:02
+[[file:../../Pictures/org-downloads/Content/2022-06-25_20-22-02_screenshot.png]]
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.44]

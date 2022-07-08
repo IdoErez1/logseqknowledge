@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       379052af-e5fa-44a7-b4dd-b2ddd33c7e67
+:END:
+#+title: factors of procrastination
+#+date: [2022-06-21 Tue 13:45]
+* Content
+** there are 6 factors that contribute to [[id:778e7de2-6196-4aee-b597-c84e17f68d49][procrastination]]:
+*** Boring
+*** frustrating
+*** Difficult
+*** unstructered or ambiguous
+*** lacking in personal meaning
+*** lacking in intrinsic rewards(i.e. not fun or engaging)
+** The more of these factors a task have the easier it will be to procrastinate
+** You can try to reduce the chance to procrastinate by altering these factors. for example
+*** boring - go to a more interesting place like a coffee shop.
+*** frustrating - limiting yourself in time. only continue after the time if you feel you can do more
+*** difficult - study and prepare before you begin
+*** unstructured or ambiguous - create a detailed and ordered plan beforehand
+*** lack of intrinsic rewards - for every 15 minutes for example you can put money aside to buy yourself something
+
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

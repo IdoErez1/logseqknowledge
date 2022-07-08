@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       83cf5dc2-989d-423d-96c2-06603a72c84d
+:END:
+#+title: basal ganglia
+#+date: [2022-06-25 Sat 19:33]
+#+filetags: :Neurology:
+
+* Content
+** part of the [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][cerebellum]].
+** Important for motar control
+** gets damaged by parkingson's desease
+
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

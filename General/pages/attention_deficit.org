@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       bda8e215-e14b-47fb-aad0-2c6907ee8338
+:END:
+#+title: attention deficit disorder
+#+date: [2022-06-24 Fri 04:21]
+#+filetags: :Psychology:Neurology:
+
+* Content
+** A deficit in the [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]] system that prevents one from properly focusing attention
+** Symtoms are divided into:
+*** Inattentiveness(difficulty concentrating and [[id:b2801aee-8a48-4128-8336-79ba9b9100e3][focusing]])
+*** hyperactivity and impulsiveness
+** more often diagnosed in boys than girls
+*** girls are also more likely to have symptoms of inattentiveness only
+** are under stronger command of [[id:29e97133-9617-475d-b0b9-bdeb2c3a5570][the reward center]].
+*** This is why it isn't a problem for them to go along with the reward center and do something that is very rewarding without difficulty like playing a video game
+** Has strong genetic components. according to one study if one identical twin has ADHD. the other one has a 91% chance to also have it
+** have difficulty mustering motivation to do long term tasks that don't sustain immediate rewards, such as studying for collage
+** Also influences the [[id:124a74df-4a31-4171-b46d-549b7a505162][prefrontal cortex]] - hard to keep an idea in [[id:19009122-eee1-4504-9b32-dc7ebe6c2251][working memory]]
+*** A failiure of [[id:19009122-eee1-4504-9b32-dc7ebe6c2251][working memory]] is also why people with [[id:bda8e215-e14b-47fb-aad0-2c6907ee8338][attention deficit disorder]] have trouble keeping time and are prone to [[id:778e7de2-6196-4aee-b597-c84e17f68d49][procrastination]]
+**** for example a worker who is always late and is on the verge of being fired might go to the cereal box in the morning, decide the cupboard needs rearranging and forget she needs to leave at a certain time
+** caused by an imbalance of [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]] and [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]]
+* References
+** https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/symptoms/
+** [[@Spark!: How Exercise Will Improve the Performance of Your Brain]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d3193c06-47dc-4183-9e86-c9a65008cc29
+:END:
+#+title: stress inoculation
+#+date: [2022-06-25 Sat 20:45]
+#+filetags: :Psychology:Neurology:
+
+* Content
+** In limited doses, stress causes [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] to be able to better handle stress
+** simular to the effect of a vaccine on the immune system
+** 
+
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.61] 

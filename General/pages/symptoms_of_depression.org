@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0c798a11-20d1-472c-b9a0-03f57c0097e3
+:END:
+#+title: symptoms of depression
+#+date: [2022-06-23 Thu 20:00]
+#+filetags: :Psychology:
+
+* Content
+** Feeling sad or having a depressed mood
+** Loss of interest or pleasure in activites that once were enjoyed
+** Changes in appetite - either weight loss or weight gain
+** Trouple sleeping or sleeping too much
+** Loss of energy and increased fatigue
+** Feeling worthless or guilty
+** difficulty thinking concentrating or making decisons
+** Thoughts of death or suicide
+
+* References
+** https://psychiatry.org/patients-families/depression/what-is-depression

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       18f148a4-9204-4e10-8d74-3523b2a7db09
+:END:
+#+title: system 1
+#+date: [2022-07-02 Sat 11:30]
+#+filetags: :Psychology:
+
+* Content
+** A type of mode of thinking
+** Operates automatically and quickly, with little to no effort and no sense of volentary control
+** Activities attributed to system 1:
+*** Detect that one object is more distant than another
+*** Orient to the source of a sudden sound
+*** Make a "disgust" face when shown a horrible picture
+*** Detect hostility in a voice
+*** Answer to 2+2=?
+*** Readwords on a large billboard
+*** Drive a car on an empty road
+*** Find a strong move in chess(if you are a chess master)
+*** Understand simple sentences
+
+* References
+** [[id:27e18e5a-a75f-4ef6-85d7-8ff8f9fcd7ed][Thinking Fast and Slow]]

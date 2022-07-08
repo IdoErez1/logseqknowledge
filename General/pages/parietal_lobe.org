@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       13c6d125-f9d7-4fd7-91e1-0983fac04cea
+:END:
+#+title: parietal lobe
+#+date: [2022-06-27 Mon 12:02]
+#+filetags:
+
+* Content
+** part of the [[id:b9237cc7-71e2-41e0-9020-956aba900c2c][cerebral cortex]]
+** functions include:
+*** sensory information(touch, pressure, pain, position, vibration, temperature) processing
+*** Spacial processing and spatial manipulation - the ability to understand where you are in 3d space
+
+
+* References
+**  https://my.clevelandclinic.org/health/articles/23073-cerebral-cortex

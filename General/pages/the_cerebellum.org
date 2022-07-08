@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e
+:ROAM_ALIASES: cerebellum
+:END:
+#+title: cerebellum
+#+date: [2022-06-24 Fri 04:37]
+#+filetags: :Neurology:
+
+* Content
+** a primative part of the brain that is part of the [[id:80d04fbb-a39a-454c-ac83-e4b0f492b9b9][reptilian brain]] and is related to motor movement
+*** this includes:
+**** coordination
+**** motion
+**** balance
+** the name cerebellum translates to "little brain"
+** although it just accounts for 10% of [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]]'s volume, it contains 50% of the [[id:414f3e05-bb76-4f1b-83fd-726d0750fe91][neurons]]
+** /link
+** [[file:../../Pictures/org-downloads/Content/2022-06-24_06-49-41_screenshot.png]]
+** [[id:2a10e30f-a9fa-4ad1-8061-00f519825fde][exercise effects on the cerebellum]]
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

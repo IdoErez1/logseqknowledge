@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       5e14546e-2859-4c34-8d09-b58cd36914e6
+:END:
+#+title: Ways to identify potential autocratic leader
+#+date: [2022-06-19 Sun 18:47]
+
+* Content:
+** Political Science Professor Juan Lintz has conceved four ways to identify potential autocratic leaders:
+*** Refusing to oblige to the democratic rules of the game.
+**** Examples:
+***** Being against the constitution(or in israels case against the base laws) and showing a desire to break it
+***** Show anti democratic ideas like repealing elections or removing political liberties and rights
+*** Deny the legitimacy of their political rivals
+**** Examples:
+***** Present their rivals as threats to the national security or to the way of life
+***** Accuse them of callaboration with a foreign enemy.
+*** Acceptance and Encoragement of Violence
+**** Examples:
+***** Refuse to condemn violent behavior commited by their supporters
+***** Refuse to condemn/openly support violent actions done around the world
+*** Show desire to Harm the Civil liberties of their opponents
+**** Examples:
+***** Attempt to harm the right to protest
+***** Threaten to punish the critics
+***** Praise the repressive measures taken by other countries
+
+* References:
+[[id:ca23a014-aa9d-41ef-9cad-b8399adf9f3e][How Democracies Die]][p. 17-25]

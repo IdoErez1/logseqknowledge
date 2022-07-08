@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       33a2b63c-b8c0-4992-82e2-55ed66eb0aab
+:END:
+#+title: democratic referees
+#+date: [2022-06-19 Sun 22:21]
+* Content
+** The "referees" in democracy are supposed to be the people who are fair and just and make sure the democratic rules of the game are being followed
+*** Examples of referees:
+**** Justice system
+**** Law enforcement
+**** Taxation
+**** Intellegence
+**** Free press
+**** and any other regulatory institute
+** [[id:ab581e0c-3d9b-44b2-8df2-61f559f6b830][Controlling the democratic referees]] can yield great benefit for the autocrat
+*** Examples:
+**** if judician and law enforcement remain independent then they might expose and punish the misconduct of the leader while if on the leaders side they could prevent an investigation.
+**** Allow the autocrat to punish and expose his opposition, selective enforcement of the law
+**** Intelligence agencies can be used to spy on critics and dig up material for blackmail
+*** By controlling the referees the leaders can develop a decisive advantage over their opponents
+*** These processess are slow and appear to happen according to the law therefor citizen don't really notice that they are losing their democracy
+
+* Related Pages
+
+* References
+[[id:ca23a014-aa9d-41ef-9cad-b8399adf9f3e][How Democracies Die]][p. 76-96]

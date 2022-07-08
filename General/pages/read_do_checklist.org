@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d5b935bb-114a-4adb-8141-0f3608eb6522
+:END:
+#+title: read-do checklist
+#+date: [2022-06-22 Wed 09:08]
+* Content
+** This is a type of checklist where you read what is on the the checklist and then you do it immediatly
+** It is usually done one item at a time. You read it and then do it
+
+* References
+[[id:ae811ef3-6e5f-4546-be34-b00ad2eb50fa][The Checklist Manifesto]]

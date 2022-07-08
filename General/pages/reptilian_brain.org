@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       80d04fbb-a39a-454c-ac83-e4b0f492b9b9
+:END:
+#+title: reptilian brain
+#+date: [2022-06-26 Sun 23:05]
+#+filetags: :Neurology:
+
+* Content
+** the most primitive part of [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] among terrestrian animals
+** basic body functions - movement, breathing, blood pumping. [[id:b8d8f7b5-2f7f-40ff-af7d-25b0b533f391][fight or flight response]],  
+** Consists of a [[id:b886df24-038c-4626-9e2d-d2911c7dbbbf][brain stem]] and a [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][cerebellum]]
+
+* References
+**  [[id:0b77b034-76c1-4677-859f-dbc8ba1ca3b0][A History of the Human Brain: From the Sea Sponge to CRISPR, How Our Brain Evolved]][p.48]

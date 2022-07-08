@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       687996be-3b48-452f-8410-9ed4d642f491
+:END:
+#+title: Requirement for experiencing flow
+#+date: [2022-06-20 Mon 15:24]
+
+* Content
+** Requirements:
+*** Clear Goal
+*** Immidiate feedback on how good you are doing
+*** Finding the balance between difficulty and ability
+**** if it is too easy you feel bored and don't experience [[id:ccb00cf7-31a4-4a69-9942-a43df0906364][flow]]
+**** if it is too difficulty you feel anxious and don't experience [[id:ccb00cf7-31a4-4a69-9942-a43df0906364][flow]]
+**** #+DOWNLOADED: screenshot @ 2022-06-20 15:28:41
+[[file:../../Pictures/org-downloads/Content/2022-06-20_15-28-41_screenshot.png]]
+**** The more expertise you achieve the more you will experience flow
+** Flow is dependent on how you do something not what you do. Everything can trigger flow when it is adjusted to fit the requirements. even daily activities like walking
+* Related Pages
+* References
+[[id:0e414aed-c9ad-4545-8dc4-521c59f5ea20][Flow: The Psychology of Optimal Experience]]

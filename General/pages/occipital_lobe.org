@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       025bb66d-0f73-446e-995d-606eac05a8ae
+:END:
+#+title: occipital lobe
+#+date: [2022-06-27 Mon 12:09]
+#+filetags:
+
+* Content
+** part of the [[id:b9237cc7-71e2-41e0-9020-956aba900c2c][cerebral cortex]]
+** responsible for visual perception, including color, form and motion
+
+* References
+**  https://www.health.qld.gov.au/abios/asp/boccipital

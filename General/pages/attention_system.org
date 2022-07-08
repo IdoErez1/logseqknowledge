@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       72d6ab04-2d6f-4983-88a8-8ae5bb478e76
+:END:
+#+title: attention system
+#+date: [2022-06-24 Fri 04:32]
+#+filetags: :Neurology:
+
+* Content
+** The system in the brain that is responsible for directing [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]]
+** Isn't a centralized location, but rather a beb of different pathways
+*** Begins at the locus coeruleus - The arousal center and from there send signals to multiple parts of the brain to arouse [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]]
+*** This includes areas such as [[id:29e97133-9617-475d-b0b9-bdeb2c3a5570][the reward center]], [[id:2b1537c7-69ec-49dc-a5dd-7a53a477bf6d][the limbic system]], [[id:dccfcee7-27bd-4f22-96d3-e508ee2b0a0f][the cortex]] and [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][the cerebellum]]
+**** There is a lot of overlap between the reward center and movement
+** Attention circuits are regulated by [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitters]] such as [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]] and [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]]
+*** These [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitters]] are what is targetted by [[id:bda8e215-e14b-47fb-aad0-2c6907ee8338][attention deficit disorder]] medication
+**** 
+
+* References
+[[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

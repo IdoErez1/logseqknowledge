@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       661bb930-1782-49be-b22b-ed5ff679056c
+:END:
+#+title: exercise strategy for health at old age
+#+date: [2022-06-26 Sun 21:42]
+#+filetags:
+
+* Content
+** Your overall strategy should include 4 areas:
+*** aerobic capacity
+**** For anyone over 60 it is best to exercise around 6 days a week
+**** attempt 4 days a week, at 60-65% [[id:2c4226e3-7d23-4f5a-8c8d-bc45ef767046][maximum heart rate]]
+**** try a more intense pace 70-75% of [[id:2c4226e3-7d23-4f5a-8c8d-bc45ef767046][maximum heart rate]] 2 times a week
+**** consitancy is more important than intensity
+*** strength
+**** weights or resistance machine at least twice a week
+**** useful to counteract osteoporsis
+**** aerobic doesn't conteract muscle or bone loss
+*** balance & flexibilty
+**** yoga, pilates, tai chi, martial art, dance are some examples that involve balance and flexibilty
+**** important to stay agile and prevent injuries
+
+* References
+**  

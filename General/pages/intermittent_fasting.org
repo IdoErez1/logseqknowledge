@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       cf8f4917-c37b-4ac1-9771-6403184b3e32
+:END:
+#+title: intermittent fasting
+#+date: [2022-06-23 Thu 18:05]
+#+filetags: :Health:
+
+* Content
+** fasting usually for the purpose of [[id:46c87ed4-d1cd-406a-924d-50f7d8a78f0b][losing weight]] but it also has additional health benefits
+** There are a number of fasting techinques
+*** 16/8 fast - fasting for 16 hours a day with an 8 hours fasting window
+**** usually is done by skipping breakfast or dinner
+*** 24 hour fast one are two days a week
+*** 5:2 method - for 2 days in the week you eat a significantly lower amount of calories(about a third of the noraml amount)
+** fasting increases [[id:79bc4aec-12c7-4c6d-8e73-7ceb42ecbb76][insulin]] sensitivity. since it is in it's base line level most of the day
+** During fasting the body enters maintaining mode instead of growth mode. allowing the body to preserve itself and slow aging
+** increases the amount of HGH(human growth horomone), that helps lose fat and increase muscles
+** when less meals are eaten the body naturally eats less and weight will be lost
+** research shows fasting can help prevent inflammation and reduce risk of certain types of cancer
+** can help reduce [[id:74199f34-7d52-4c67-9573-baf0c32fef70][low density lipoproteins]] in blood
+** can encorage creation of BDNF
+** akin to [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] in that it causes mild [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][physiological stress]] and helps by [[id:d3193c06-47dc-4183-9e86-c9a65008cc29][stress inoculation]]
+** There are also a number of disadvantages to fasting:
+*** feeling of hunger
+*** can alter mood
+*** physical weakness
+
+* References

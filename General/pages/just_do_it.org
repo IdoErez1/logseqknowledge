@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5aea8fe5-50c6-46a7-9305-7cef2f92b45b
+:END:
+#+title: Just do it!
+#+date: [2022-06-21 Tue 09:56]
+* Content
+** If you want to gain confidence before doing something it is better to just do it and then you will gain confidence while doing it.
+** It will make it easier to do it in the future
+** sometimes the fear of doing something takes more mental energy then doing the task itself(Emmett's law)
+
+* References
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

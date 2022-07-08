@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b35284e1-022b-41c4-8e37-176886d7993b
+:END:
+#+title: neomammalian brain
+#+date: [2022-06-26 Sun 23:13]
+#+filetags: :Neurology:
+
+* Content
+** the type of brain that humans have
+** most evolved type of brain
+** has a [[id:b9237cc7-71e2-41e0-9020-956aba900c2c][cerebral cortex]] that provides the ability of higher order thinking
+
+* References
+**  [[id:0b77b034-76c1-4677-859f-dbc8ba1ca3b0][A History of the Human Brain: From the Sea Sponge to CRISPR, How Our Brain Evolved]][p. 50]

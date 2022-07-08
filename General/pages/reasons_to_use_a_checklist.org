@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       566c03e7-0036-4b86-bee4-0a60ec02e2c1
+:END:
+#+title: reasons to use a checklist
+#+date: [2022-06-22 Wed 08:47]
+* Content
+** faulty memory or distractions can cause you to make mistakes that could even destroy everything(think of an engineer whos building collapses or a doctor whos patient dies)
+*** [[id:0a23b756-e92e-4d8d-9e0d-5e48b4d8a8e7][checklist]] help because they remind us of the vital tasks and things
+** allows collaberation between specialists
+*** [[id:b2a49708-ef6f-41e2-b431-54425d6e57b1][we live in a specialized society]]
+*** A checklist allows every expert to express their opinion so that nothing is missed
+** prevent rare occurences
+*** there are things that require a preventive action though their damage doesn't happend often.
+*** Over time an expert can start skiping the preventive action and risk damage
+*** A checklist makes sure he goes over everything
+** prevents skipping of steps
+*** possibly because of the repetitive nature of some tasks a professional will possibly skip or shorten a task
+*** checklist help prevent this
+
+* References
+[[id:ae811ef3-6e5f-4546-be34-b00ad2eb50fa][The Checklist Manifesto]]

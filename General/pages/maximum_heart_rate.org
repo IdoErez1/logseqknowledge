@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2c4226e3-7d23-4f5a-8c8d-bc45ef767046
+:END:
+#+title: maximum heart rate
+#+date: [2022-06-26 Sun 21:44]
+#+filetags: :Health:Fitness:
+
+* Content
+** maximum rate your heart can pump
+** a good aproximate formula for calculating maximum heart rate is subtract your age from 220
+*** for example a 20 year old would have a maximum heart rate of aproximatly 220 - 20 =200 
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.224]

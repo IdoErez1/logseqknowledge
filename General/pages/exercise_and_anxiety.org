@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6c372664-bf6e-4ed0-83a4-47625a6a0c3b
+:END:
+#+title: exercise and anxiety
+#+date: [2022-06-25 Sat 22:00]
+#+filetags:
+
+* Content
+** [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] has been shown to help [[id:7e0c6768-32db-4385-b319-753e21b12d1d][anxiety]] as much as medication like prozac
+*** multiple studies show this. the group that exercised most are always the least anxious at the end of the study
+** the theory is when we increase our heart rate and breathing in the context of exercise, we learn that physical signs don't necessarily lead to [[id:7e0c6768-32db-4385-b319-753e21b12d1d][anxiety]] attacks.
+** thus interupts the [[id:7e0c6768-32db-4385-b319-753e21b12d1d][anxiety]] feedback loop to [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]]
+** in addition exercise boosts [[id:2c9d39ae-aa8e-466c-9704-c963f2bb1c92][serotonin]] levels, which calms us down and enhances our feelings of security
+** also triggers the release of GABA(gammaamino-butyric acid), a major inhibitory [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitter]] that is a main target for anti-[[id:7e0c6768-32db-4385-b319-753e21b12d1d][anxiety]] medication
+
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.90] 

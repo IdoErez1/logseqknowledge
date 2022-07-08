@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6e9c176d-90c2-43e4-8a4f-572b8527f113
+:END:
+#+title: ways to prevent procrastination 
+#+date: [2022-06-21 Tue 14:00]
+* Content
+** These is a way of dealing with [[id:778e7de2-6196-4aee-b597-c84e17f68d49][procrastination]]
+** Procrastination list
+*** create a task list so that when you procrastinate you are at least doing somthing useful.
+** list the price of [[id:778e7de2-6196-4aee-b597-c84e17f68d49][procrastination]]. This can encorage you to do the task if you know what you will lose
+** [[id:5aea8fe5-50c6-46a7-9305-7cef2f92b45b][Just do it!]]
+** [[id:f895804a-9e44-4d4b-9b78-560cde463038][Imagine yourself in the future]] - this will probably encorage you to take future improving choices
+** Disconnect from the internet - The internet is full of distractions
+*** [[id:7584df91-2540-4e43-a0cb-b9aa2e098e00][for more motivation reduce obstacles]]
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

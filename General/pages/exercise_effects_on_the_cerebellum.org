@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2a10e30f-a9fa-4ad1-8061-00f519825fde
+:END:
+#+title: exercise effects on the cerebellum
+#+date: [2022-06-24 Fri 09:13]
+#+filetags: :Neurology:
+
+* Content
+** the [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][cerebellum]] is connected to [[id:124a74df-4a31-4171-b46d-549b7a505162][prefrontal cortex]] and the connection in humans are proportionally thinker in humans than in monkeys
+** the [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][cerebellum]] coordinates thoughts, [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]], emotions and even social skills
+** when you exercise and do something that requires complex motor movement you are also exercising your [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][cerebellum]] which has a wide range of positive effects
+
+* References
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

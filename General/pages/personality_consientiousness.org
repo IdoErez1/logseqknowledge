@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2b132ee6-6d6a-4c27-8028-c60c3db5da77
+:END:
+#+title: personality consientiousness
+#+date: [2022-06-20 Mon 11:10]
+* Content
+** A personality trait that is defined by a number of properties:
+*** Like order and discipline
+*** believe in hard work
+*** loyalty to the hierarchy
+** people low in consientiousness are more likely to end in prison and have a higher risk of death
+
+
+* Related Pages
+
+* References

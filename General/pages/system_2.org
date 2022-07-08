@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       13ad7d8c-f771-465a-8e94-235722493bbe
+:END:
+#+title: system 2
+#+date: [2022-07-02 Sat 11:34]
+#+filetags:
+
+* Content
+** A thinking mode of the brain
+** Allocates [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]] to effortful mental activities that demand it
+** associated with choice and concentration - you do it willingly and effortfully
+** we often think of ourselves and identify ourselves as system 2
+** can construct thoughts in an orderly logical manner
+** Examples include:
+*** brace for a starter gun
+*** Gocus attention on the clowns in the circus
+*** Focus on the voice of a particular person in crowded and noisy room
+*** Look for a woman with white hair
+*** Search memory to identify a suprising sound
+*** Maintain a faster walking speed than is natural for you 
+*** Monitor the appropriateness of your behaviour in a social setting
+*** Count the occurences of the letter a in a text page
+*** tell someone your phone number
+*** fill out a tax form
+*** check the validity of a logical argument
+** Has some ability to change the way [[id:18f148a4-9204-4e10-8d74-3523b2a7db09][system 1]] works
+** Intense focusing on a task can make people blind even to stimuli that normally attract attention
+** is normally in low-effort mode
+** Activated when an event is detected that violates the model of the world of [[id:18f148a4-9204-4e10-8d74-3523b2a7db09][system 1]].
+*** Suprise activates and orients your attention
+** most of what you do orginates in [[id:18f148a4-9204-4e10-8d74-3523b2a7db09][system 1]] but whenever things get difficult [[id:13ad7d8c-f771-465a-8e94-235722493bbe][system 2]] takes over.
+*** This division of labor works well most of the time since system 2 requires a lot of effort and system 1 is good at what it does and is very efficient, even if inaccurate
+
+* References
+**  [[id:27e18e5a-a75f-4ef6-85d7-8ff8f9fcd7ed][Thinking Fast and Slow]]

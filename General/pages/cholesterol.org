@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       428a0e92-c8ba-453d-81c0-a25210bbc977
+:END:
+#+title: cholesterol
+#+date: [2022-06-22 Wed 13:20]
+#+filetags: 
+* Content
+** A lipid created in the liver
+** Useful for a variety of functions such as:
+*** building cells membranes
+*** helps create vitamin D
+*** helps build hormones
+** cholesterol can't travel independently in blood therefore it is connected with a protein and travels in blood as a [[id:71f21efc-d8e8-43ce-abea-4ba2f2e93c11][lipoproteins]]
+** There are two ways that the body get cholesterol:
+*** Created by the body in the liver
+**** The body creates enough cholesterol on it's own for all it's functions
+*** From animal food that created it in their liver
+**** This is why animal food does not contain cholesterol 
+
+* References
+** https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/symptoms-causes/syc-20350800
+** https://my.clevelandclinic.org/health/articles/17583-triglycerides--heart-health
+** https://my.clevelandclinic.org/health/articles/11920-cholesterol-numbers-what-do-they-mean

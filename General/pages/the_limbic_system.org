@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2b1537c7-69ec-49dc-a5dd-7a53a477bf6d
+:END:
+#+title: limbic system
+#+date: [2022-06-24 Fri 04:35]
+#+filetags: :Neurology:
+
+* Content
+** A part of [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] corrolated with emotions
+** called limbic because it looks like a ring and limbus in latin means ring
+** major parts:
+*** [[id:aaf30464-2992-4ff9-8c5e-ed1f43ec161d][hippocampus]]
+*** [[id:6b5a8794-ebee-4041-a196-9133cff0f800][amygdala]]
+*** [[id:8bf2140c-322c-4374-bbf9-1d3e53ba44f5][hypothalamus]]
+* References
+[[@Spark!: How Exercise Will Improve the Performance of Your Brain]] /

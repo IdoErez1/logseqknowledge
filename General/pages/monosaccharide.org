@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       14d81774-6fc7-408c-b0a4-229cc6019172
+:END:
+#+title: monosaccharide
+#+date: [2022-06-22 Wed 14:54]
+#+filetags: :Health:Nutrition:
+
+* Content
+** The most basic [[id:7ed3533d-9ca8-4534-ab2f-53220c79de8d][carbohydrates]]
+** A single molecule.
+** Examples include:
+*** glucose
+*** fructose
+*** glactose
+** fructose is instantly absorbed by liver and creates visceral fat.
+*** fructose is a lot sweeter than glucose
+** glucose gets absorbed in the blood and provides energy to the cells
+*** excess sugar in bloodstream is rushed into cell via [[id:79bc4aec-12c7-4c6d-8e73-7ceb42ecbb76][insulin]]
+
+* References

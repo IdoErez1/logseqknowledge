@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d51704f7-9e61-4d6e-bd5a-3d46a9994263
+:END:
+#+title: using your prime time
+#+date: [2022-06-21 Tue 13:25]
+#+filetags: :Productivity:
+
+* Content
+** Somepeople feel like they have more energy in the morning and some feel like they have more energy in the afternoon
+** Identify your prime time and do the most difficult tasks during your prime time.
+** This will allow you to be more focused and have more motivation to do it
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

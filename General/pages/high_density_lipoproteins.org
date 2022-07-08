@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9621acc2-2833-4495-a5b5-513c2c3c4c56
+:END:
+#+title: high density lipoproteins
+#+date: [2022-06-22 Wed 14:12]
+#+filetags: :Health:Anatomy:
+
+* Content
+** [[id:71f21efc-d8e8-43ce-abea-4ba2f2e93c11][lipoproteins]] that have a low amount of [[id:428a0e92-c8ba-453d-81c0-a25210bbc977][cholesterol]] and a higher density of [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]]
+** refered to as HDL
+** are considered health
+** healthy amount of HDL at least higher than 55 ml/dl for male and 45 ml/dl for female
+*** the higher the better
+** many factors affect the amount of HDL such as:
+*** smoking lowers HDL
+*** nutrition
+**** [[id:ddcb8e37-61f2-496e-a603-152f363685ca][unsaturated fat]] increase HDL
+
+
+* References

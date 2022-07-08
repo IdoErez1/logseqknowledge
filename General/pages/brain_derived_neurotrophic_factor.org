@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0a077843-9f9a-4c96-b526-765a1a376146
+:END:
+#+title: brain derived neurotrophic factor
+#+date: [2022-06-23 Thu 18:16]
+#+filetags: :Anatomy:
+
+* Content
+** A key molecule that helps create permanant changes in the brain and is useful to learning and memory
+** [[id:cf8f4917-c37b-4ac1-9771-6403184b3e32][intermittent fasting]] may help increase
+** [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] can also increase BDNF.
+*** In an experiment people who exercised beforehand could remember 20% more words than people who didn't
+*** lasts only several hours after the activity
+** Is also increased by antidepressents to help improve connectivity in [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] and improve [[id:0c798a11-20d1-472c-b9a0-03f57c0097e3][symptoms of depression]]
+
+* References
+** https://www.frontiersin.org/articles/10.3389/fncel.2019.00363/full

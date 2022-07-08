@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d6a2a9c4-8f38-4504-bec6-2787bd5d1964
+:END:
+#+title: body fat percentage
+#+date: [2022-06-22 Wed 15:53]
+#+filetags: :Health:Exercise:
+
+* Content
+** [[id:7f5f78f3-873b-4faf-aed3-dbc5d4dfb017][body mass index]] is not accurate for groups like athletes and a better measure would be body fat percentage
+** You can measure it in a number of ways
+** #+DOWNLOADED: screenshot @ 2022-06-22 16:02:07
+[[file:../../Pictures/org-downloads/Content/2022-06-22_16-02-07_screenshot.png]]
+* References

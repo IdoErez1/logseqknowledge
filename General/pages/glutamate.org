@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       50002bcf-d7b9-46f9-967e-75f27339a99c
+:END:
+#+title: glutamate
+#+date: [2022-06-25 Sat 19:27]
+#+filetags:
+
+* Content
+** a [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitter]] responsible for strengthening connection between neurons.
+** When it delivers a signal between [[id:414f3e05-bb76-4f1b-83fd-726d0750fe91][neurons]]. the connection between them strengthens
+** these connections weaken over time and need to be strengthened to order for them to stay strongly connected
+** important part of [[id:6988bbb0-5a4a-4962-aa65-2ce89d4beab5][signaling in the brain]]
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e5280103-5677-453a-8faf-8cfbbc67827d
+:END:
+#+title: big 5 personality traits
+#+date: [2022-06-20 Mon 10:52]
+#+filetags: :Storytelling:Psychology:
+
+* Content
+** Psychologist divide personality into 5 different properties:
+*** [[id:b1b7f435-b9a0-4379-977b-aaf45488b8e8][extraversion]]
+*** [[id:e1f06a56-07b6-480a-a3e4-7b747f76241c][neuroticism]]
+*** [[id:cf124f9f-e027-4c89-8083-74b47f8735d6][openness]]
+*** [[id:93b630a6-5463-4331-93a8-55b4aa32357c][agreeableness]]
+*** [[id:2b132ee6-6d6a-4c27-8028-c60c3db5da77][consientiousness]]
+** All personalities should be able to be described using these traits
+** personality is pretty constant throught ones adulthood
+
+* References
+[[id:3ec551c8-3088-4cd7-b290-b703e790b5c0][The Science of StoryTelling]]

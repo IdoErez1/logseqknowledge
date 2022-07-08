@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       b061404d-7502-49a0-b9fe-82699ba5ab7d
+:END:
+#+title: effects of physical exercise on the body
+#+date: [2022-06-23 Thu 18:25]
+#+filetags: :Health:Exercise:
+
+* Content
+** Helps keep [[id:46c87ed4-d1cd-406a-924d-50f7d8a78f0b][healthy weight]]
+** reduces [[id:4780eb15-4fd5-45ad-84dd-ccd364f26078][blood pressure]]
+** reduces [[id:74199f34-7d52-4c67-9573-baf0c32fef70][low density lipoproteins]]
+** improves bloodflow
+*** When you do [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] your heart rate increases
+*** This causes your heart to become better at pumping blood 
+*** as a result you will also have a naturally lower pulse - your body pumps blood better so less pumps are needed
+*** improves immune system
+*** strengthens muscles and bones
+**** body adapts to the added strain during exercise
+**** this also helps reduce the risk of injuries
+**** this is especially important for older people with weaker muscles and bones
+*** releases [[id:f111714c-9b2c-48cb-b632-8707c65dd6a4][human growth hormone]]
+*** slows aging
+*** improves flexibilty
+
+* References

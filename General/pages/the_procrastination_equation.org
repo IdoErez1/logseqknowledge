@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       12a46f4f-2361-43d3-a20b-48c2d8d38de5
+:END:
+#+title: the procrastination equation
+#+date: [2022-06-21 Tue 13:48]
+* Content
+** \[ Motivation = \frac{Expectancy\times Value}{Impulsiveness\times Delay} $ \]
+*** Motivation - the opposite of procrastination 
+*** Expectancy - do you expect you will be able to reach your goal. If you don't believe you can do it it will harm your motivation
+*** Value - How valuable is the thing you are pursing for you. The more valuable it is the more motivation you will have
+*** Impulsiveness - How often do you purse immediate gratification? how distractable are you? If you are impulsive you will have less motivation
+*** Delay - How far delayed into the future is your goal. if it is very far in the future then you will have less motivation
+
+* References
+** https://mindfulambition.net/motivation-equation/

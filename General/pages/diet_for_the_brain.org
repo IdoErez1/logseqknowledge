@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4aa26154-8443-4199-ad09-e9f1cb60d6a8
+:END:
+#+title: diet for the brain
+#+date: [2022-06-26 Sun 21:29]
+#+filetags: :Health:
+
+* Content
+** [[id:cf8f4917-c37b-4ac1-9771-6403184b3e32][intermittent fasting]]
+** certain foods activate cellular repair mechanisms, like Cumin, garlic, onions and broccoli
+** certain foods fight free radicals, like blueberries, pomegrantes, spinach and beets
+** low carb diets may be good for weight lose but are not good for [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]]
+** eat [[id:7ed3533d-9ca8-4534-ab2f-53220c79de8d][carbohydrates]] that have a low [[id:ef249cfb-1047-4143-8a06-c2509b0b86ca][glycemic index]], so it won't cause a spike and a crash, but provide steady energy
+** [[id:b94b2fbc-9eb9-4bdb-9a3f-5a7cbb9e7b31][fats]] are also important for the brain, it is made of 50% fat. [[id:ddcb8e37-61f2-496e-a603-152f363685ca][unsaturated fat]] is especially good, expecially polyunsaturated fats like omega-3.
+*** studies show that people who eat fish(with omega-3) slow their cognitive decline by about 10%
+*** you can find omega-3 in deep-water fish such as salmon, cod, and tuna
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p.244]

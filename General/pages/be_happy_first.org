@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       075e877b-6c81-498d-97ee-b1ad4a723cea
+:END:
+#+title: Be happy first
+#+date: [2022-06-20 Mon 15:51]
+* Content
+** Society tells us that if we work hard we will be successful and when we are successful we will be happy.
+** In truth, this is not how it works. [[id:8f2e40d1-ce20-4753-9f59-0c88019b345d][Man is never satisfied]].
+** When you are happy you are more productive by around 31%
+** Therefore you should first be happy, then you will work hard and then you will be sucessfull
+* Related Pages
+
+* References
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]

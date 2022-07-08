@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       19009122-eee1-4504-9b32-dc7ebe6c2251
+:END:
+#+title: working memory
+#+date: [2022-06-22 Wed 00:53]
+#+filetags: :Neurology:Psychology:
+
+* Content
+** congnitive system with limited capacity that can hold information temporarily
+** working memory is important for reasoning and decision making
+** occures in the [[id:124a74df-4a31-4171-b46d-549b7a505162][prefrontal cortex]]
+** in the computer world in equivalent to [[id:ca763bf3-e6a8-43e3-bfb3-4aee70c39e2c][random access memory]]
+
+* References

@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       7f5f78f3-873b-4faf-aed3-dbc5d4dfb017
+:END:
+#+title: body mass index
+#+date: [2022-06-22 Wed 15:45]
+#+filetags: :Health:
+
+* Content
+** There is a direct relationship between BMI and hip ratio to:
+*** chance of having a heart attack
+*** chance of having a stroke
+*** high [[id:74199f34-7d52-4c67-9573-baf0c32fef70][low density lipoproteins]] [[id:428a0e92-c8ba-453d-81c0-a25210bbc977][cholesterol]]
+*** diabetes
+*** fertility
+*** several types of cancer
+*** snoring
+*** sleep problems
+*** asthma
+*** and more
+** BMI = Weight(kg)/ height^2(m)
+** BMI ranges:
+*** Under 18.5 -under weight
+*** 18.5 - 24.9 - healthy weight
+*** 25.0 - 29.9 - fat
+*** over 30.0 - obese
+** there is a strong corrolation between BMI and body fat but there are several group where it could be inaccurate:
+*** Woman have more fat for the same BMI then men
+*** Old people usually have more fat for the same BMI then younger people
+*** Athletes have less fat for the same BMI than non-athletes
+**** the difference is so radical that a healthy athlete could be declared obese. Therefore for athletes it is better to use [[id:d6a2a9c4-8f38-4504-bec6-2787bd5d1964][body fat percentage]]
+
+* References

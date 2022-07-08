@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       17a329b3-14f6-43dc-ae7c-d4bb65a7281b
+:END:
+#+title: frontal lobe
+#+date: [2022-06-27 Mon 12:06]
+#+filetags:
+
+* Content
+** part of the [[id:b9237cc7-71e2-41e0-9020-956aba900c2c][cerebral cortex]]
+** functions include:
+*** emotional expression
+*** problem solving
+*** memory
+*** language
+*** judgment
+*** sexual behavior
+*** planning
+*** self-control
+*** [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]]
+*** empathy
+
+* References
+**  https://www.healthline.com/human-body-maps/frontal-lobe#functions

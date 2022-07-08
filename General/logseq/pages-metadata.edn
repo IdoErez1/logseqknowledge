@@ -1,0 +1,780 @@
+[{:block/name "@how democracies die",
+  :block/created-at 1657221854152,
+  :block/updated-at 1657221854152}
+ {:block/name
+  "@spark!: how exercise will improve the performance of your brain",
+  :block/created-at 1657222181825,
+  :block/updated-at 1657222181825}
+ {:block/name "@the checklist manifesto: how to get things right",
+  :block/created-at 1657225594789,
+  :block/updated-at 1657225594789}
+ {:block/name
+  "@the diet compass: the 12-step guide to science-based nutrition for a healthier and longer life",
+  :block/created-at 1657222469443,
+  :block/updated-at 1657222469443}
+ {:block/name "@the diet myth: the real science behind what we eat",
+  :block/created-at 1657222488232,
+  :block/updated-at 1657222488232}
+ {:block/name
+  "@the happiness equation: want nothing + do anything = have everything",
+  :block/created-at 1657251867129,
+  :block/updated-at 1657251867129}
+ {:block/name
+  "@the productivity project: accomplishing more by managing your time",
+  :block/created-at 1657222546548,
+  :block/updated-at 1657222546548}
+ {:block/name
+  "@the productivity project: accomplishing more by managing your time, attention, and energy",
+  :block/created-at 1657222324247,
+  :block/updated-at 1657222324247}
+ {:block/name
+  "@the science of storytelling: why stories make us human and how to tell them better",
+  :block/created-at 1657225072464,
+  :block/updated-at 1657225072464}
+ {:block/name "a",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "addiction",
+  :block/created-at 1657221786606,
+  :block/updated-at 1657221786606}
+ {:block/name "addiction withdrawal",
+  :block/created-at 1657221786645,
+  :block/updated-at 1657221786645}
+ {:block/name "amino acids",
+  :block/created-at 1657221786870,
+  :block/updated-at 1657221786870}
+ {:block/name "amygdala",
+  :block/created-at 1657221786626,
+  :block/updated-at 1657221786626}
+ {:block/name "anatomy",
+  :block/created-at 1657221787089,
+  :block/updated-at 1657221787089}
+ {:block/name "and energy",
+  :block/created-at 1657222546549,
+  :block/updated-at 1657222546549}
+ {:block/name "animal protein",
+  :block/created-at 1657221786790,
+  :block/updated-at 1657221786790}
+ {:block/name "anxiety",
+  :block/created-at 1657221786682,
+  :block/updated-at 1657221786682}
+ {:block/name "attention",
+  :block/created-at 1657222546548,
+  :block/updated-at 1657222546548}
+ {:block/name "attention deficit disorder",
+  :block/created-at 1657221786752,
+  :block/updated-at 1657222181842}
+ {:block/name "attention psychology",
+  :block/created-at 1657221786886,
+  :block/updated-at 1657222148537}
+ {:block/name "attention system",
+  :block/created-at 1657221786714,
+  :block/updated-at 1657221786714}
+ {:block/name "atul gawande",
+  :block/created-at 1657225594795,
+  :block/updated-at 1657225594795}
+ {:block/name "authoritarian measures during times of crisis",
+  :block/created-at 1657221786662,
+  :block/updated-at 1657221786662}
+ {:block/name "automatic though",
+  :block/created-at 1657221786900,
+  :block/updated-at 1657221786900}
+ {:block/name "b",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "bad checklist vs good checklist",
+  :block/created-at 1657221786846,
+  :block/updated-at 1657221786846}
+ {:block/name "bas kast",
+  :block/created-at 1657222469448,
+  :block/updated-at 1657222469448}
+ {:block/name "basal ganglia",
+  :block/created-at 1657221786819,
+  :block/updated-at 1657221786819}
+ {:block/name "be happy first",
+  :block/created-at 1657221786913,
+  :block/updated-at 1657221786913}
+ {:block/name "benefits from work",
+  :block/created-at 1657221787114,
+  :block/updated-at 1657221787114}
+ {:block/name "big 5 personality traits",
+  :block/created-at 1657221787127,
+  :block/updated-at 1657221787127}
+ {:block/name "biological aging",
+  :block/created-at 1657221787211,
+  :block/updated-at 1657221787211}
+ {:block/name "biology",
+  :block/created-at 1657221787290,
+  :block/updated-at 1657221787290}
+ {:block/name "blood pressure",
+  :block/created-at 1657221787103,
+  :block/updated-at 1657221787103}
+ {:block/name "blood sugar",
+  :block/created-at 1657221786949,
+  :block/updated-at 1657221786949}
+ {:block/name "body fat percentage",
+  :block/created-at 1657221786962,
+  :block/updated-at 1657221786962}
+ {:block/name "body mass index",
+  :block/created-at 1657221787011,
+  :block/updated-at 1657221787011}
+ {:block/name "book",
+  :block/created-at 1657218635112,
+  :block/updated-at 1657218635112}
+ {:block/name "books",
+  :block/created-at 1657221788835,
+  :block/updated-at 1657221788835}
+ {:block/name "brain",
+  :block/created-at 1657221789639,
+  :block/updated-at 1657221789639}
+ {:block/name "brain derived neurotrophic factor",
+  :block/created-at 1657221787087,
+  :block/updated-at 1657221787087}
+ {:block/name "brain detects differences",
+  :block/created-at 1657221786933,
+  :block/updated-at 1657221786933}
+ {:block/name "brain stem",
+  :block/created-at 1657221786982,
+  :block/updated-at 1657221786982}
+ {:block/name "c",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "canceled",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "cancelled",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "carbohydrates",
+  :block/created-at 1657221787164,
+  :block/updated-at 1657221787164}
+ {:block/name "card",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "cerebellum",
+  :block/created-at 1657221789713,
+  :block/updated-at 1657222371303}
+ {:block/name "cerebral cortex",
+  :block/created-at 1657221787065,
+  :block/updated-at 1657221787065}
+ {:block/name "characters theory of control",
+  :block/created-at 1657221787034,
+  :block/updated-at 1657221787034}
+ {:block/name "checklist",
+  :block/created-at 1657221787047,
+  :block/updated-at 1657221787047}
+ {:block/name "checklist is not a list of orders",
+  :block/created-at 1657221787198,
+  :block/updated-at 1657221787198}
+ {:block/name "cholesterol",
+  :block/created-at 1657221787145,
+  :block/updated-at 1657221787145}
+ {:block/name "chris bailey",
+  :block/created-at 1657222324250,
+  :block/updated-at 1657222324250}
+ {:block/name "chronic stress",
+  :block/created-at 1657221787182,
+  :block/updated-at 1657221787182}
+ {:block/name "clearing your brain",
+  :block/created-at 1657221787255,
+  :block/updated-at 1657222324267}
+ {:block/name "complete proteins",
+  :block/created-at 1657221787437,
+  :block/updated-at 1657221787437}
+ {:block/name "complex motion and learning",
+  :block/created-at 1657221787237,
+  :block/updated-at 1657221787237}
+ {:block/name "complex number",
+  :block/created-at 1657221787223,
+  :block/updated-at 1657221787223}
+ {:block/name "components of productivity",
+  :block/created-at 1657221787456,
+  :block/updated-at 1657221787456}
+ {:block/name "computers",
+  :block/created-at 1657221788023,
+  :block/updated-at 1657221788023}
+ {:block/name "confirm-do checklist",
+  :block/created-at 1657221787350,
+  :block/updated-at 1657221787350}
+ {:block/name "consciousness psychology",
+  :block/created-at 1657221787336,
+  :block/updated-at 1657222098413}
+ {:block/name "contents",
+  :block/created-at 1657251898805,
+  :block/updated-at 1657251898805}
+ {:block/name "controlling the democratic referees",
+  :block/created-at 1657221787479,
+  :block/updated-at 1657221787479}
+ {:block/name "cortisol",
+  :block/created-at 1657221787285,
+  :block/updated-at 1657221787285}
+ {:block/name "creating space",
+  :block/created-at 1657221787369,
+  :block/updated-at 1657221787369}
+ {:block/name "curiousity curve",
+  :block/created-at 1657221787668,
+  :block/updated-at 1657221787668}
+ {:block/name "curtailing political polarization",
+  :block/created-at 1657221787418,
+  :block/updated-at 1657221787418}
+ {:block/name "damages of excess blood sugar",
+  :block/created-at 1657221787631,
+  :block/updated-at 1657221787631}
+ {:block/name "daniel ziblatt",
+  :block/created-at 1657221854168,
+  :block/updated-at 1657221854168}
+ {:block/name "default mode network",
+  :block/created-at 1657221787392,
+  :block/updated-at 1657221787392}
+ {:block/name "democratic norms",
+  :block/created-at 1657221787571,
+  :block/updated-at 1657221787571}
+ {:block/name "democratic referees",
+  :block/created-at 1657221787773,
+  :block/updated-at 1657221787773}
+ {:block/name "depression",
+  :block/created-at 1657221787506,
+  :block/updated-at 1657221787506}
+ {:block/name "diet for the brain",
+  :block/created-at 1657221787551,
+  :block/updated-at 1657221787551}
+ {:block/name "disaccharide",
+  :block/created-at 1657221787689,
+  :block/updated-at 1657221787689}
+ {:block/name "do it for you",
+  :block/created-at 1657221787534,
+  :block/updated-at 1657221787534}
+ {:block/name "doing",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "done",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "dopamine",
+  :block/created-at 1657221787589,
+  :block/updated-at 1657221787589}
+ {:block/name "draws/2022-07-08-06-55-04.excalidraw",
+  :block/created-at 1657255371463,
+  :block/updated-at 1657255371463}
+ {:block/name "effect of the microbal enviroment",
+  :block/created-at 1657221787622,
+  :block/updated-at 1657221787622}
+ {:block/name "effects of physical exercise on focus",
+  :block/created-at 1657221787609,
+  :block/updated-at 1657221787609}
+ {:block/name "effects of physical exercise on moon and depression",
+  :block/created-at 1657221787731,
+  :block/updated-at 1657221787731}
+ {:block/name "effects of physical exercise on the body",
+  :block/created-at 1657221787646,
+  :block/updated-at 1657221787646}
+ {:block/name "effects of physical exercise on the brain",
+  :block/created-at 1657221787742,
+  :block/updated-at 1657221787742}
+ {:block/name "elections can be random",
+  :block/created-at 1657221787711,
+  :block/updated-at 1657221787711}
+ {:block/name "exercise",
+  :block/created-at 1657221786964,
+  :block/updated-at 1657221786964}
+ {:block/name "exercise and addiction",
+  :block/created-at 1657221787756,
+  :block/updated-at 1657221787756}
+ {:block/name "exercise and aging",
+  :block/created-at 1657221788263,
+  :block/updated-at 1657221788263}
+ {:block/name "exercise and anxiety",
+  :block/created-at 1657221787918,
+  :block/updated-at 1657221787918}
+ {:block/name "exercise and depression",
+  :block/created-at 1657221787841,
+  :block/updated-at 1657221787841}
+ {:block/name "exercise effects on the cerebellum",
+  :block/created-at 1657221787862,
+  :block/updated-at 1657221787862}
+ {:block/name "exercise strategy for health at old age",
+  :block/created-at 1657221787825,
+  :block/updated-at 1657221787825}
+ {:block/name "factors of procrastination",
+  :block/created-at 1657221788314,
+  :block/updated-at 1657221788314}
+ {:block/name "factors that affect weight",
+  :block/created-at 1657221787931,
+  :block/updated-at 1657221787931}
+ {:block/name "fat",
+  :block/created-at 1657221788211,
+  :block/updated-at 1657221788211}
+ {:block/name "favorites",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "fiber",
+  :block/created-at 1657221787904,
+  :block/updated-at 1657221787904}
+ {:block/name "fight or flight response",
+  :block/created-at 1657221787874,
+  :block/updated-at 1657226027010}
+ {:block/name "fitness",
+  :block/created-at 1657221788739,
+  :block/updated-at 1657221788739}
+ {:block/name "five stages of a story",
+  :block/created-at 1657221787987,
+  :block/updated-at 1657221787987}
+ {:block/name "flow experience",
+  :block/created-at 1657221788000,
+  :block/updated-at 1657222051730}
+ {:block/name "focus",
+  :block/created-at 1657221787394,
+  :block/updated-at 1657221787394}
+ {:block/name "for more motivation reduce obstacles",
+  :block/created-at 1657221787943,
+  :block/updated-at 1657221787943}
+ {:block/name "freeing more time",
+  :block/created-at 1657221787953,
+  :block/updated-at 1657221787953}
+ {:block/name "frontal lobe",
+  :block/created-at 1657221787887,
+  :block/updated-at 1657221787887}
+ {:block/name "function",
+  :block/created-at 1657221788140,
+  :block/updated-at 1657221788140}
+ {:block/name "gatekeepers of democracy",
+  :block/created-at 1657221787970,
+  :block/updated-at 1657221787970}
+ {:block/name "git and version control",
+  :block/created-at 1657221788022,
+  :block/updated-at 1657221788022}
+ {:block/name "git branching",
+  :block/created-at 1657221788044,
+  :block/updated-at 1657221788044}
+ {:block/name "git remote repositories",
+  :block/created-at 1657221788062,
+  :block/updated-at 1657221788062}
+ {:block/name "glutamate",
+  :block/created-at 1657221788101,
+  :block/updated-at 1657221788101}
+ {:block/name "glycemic index",
+  :block/created-at 1657221788129,
+  :block/updated-at 1657221788129}
+ {:block/name "habits",
+  :block/created-at 1657221788079,
+  :block/updated-at 1657221788079}
+ {:block/name "happiness",
+  :block/created-at 1657221788186,
+  :block/updated-at 1657221788186}
+ {:block/name "happiness and productivity",
+  :block/created-at 1657221788185,
+  :block/updated-at 1657221788185}
+ {:block/name "happiness as an end to all means",
+  :block/created-at 1657221788152,
+  :block/updated-at 1657221788152}
+ {:block/name
+  "happiness can't be achieved by actively searching for it",
+  :block/created-at 1657221788163,
+  :block/updated-at 1657221788163}
+ {:block/name "happiness is something you control",
+  :block/created-at 1657221788333,
+  :block/updated-at 1657221788333}
+ {:block/name "having a dedicated person read the checklist",
+  :block/created-at 1657221788196,
+  :block/updated-at 1657221788196}
+ {:block/name "having a time log",
+  :block/created-at 1657221788173,
+  :block/updated-at 1657221788173}
+ {:block/name "health",
+  :block/created-at 1657221786950,
+  :block/updated-at 1657221786950}
+ {:block/name "healthy weight",
+  :block/created-at 1657221788226,
+  :block/updated-at 1657221788226}
+ {:block/name "high blood pressure",
+  :block/created-at 1657221788245,
+  :block/updated-at 1657221788245}
+ {:block/name "high density lipoproteins",
+  :block/created-at 1657221788294,
+  :block/updated-at 1657221788294}
+ {:block/name "hipothalamus",
+  :block/created-at 1657221788373,
+  :block/updated-at 1657221788373}
+ {:block/name "hippocampus",
+  :block/created-at 1657221788403,
+  :block/updated-at 1657221788403}
+ {:block/name "homeostasis",
+  :block/created-at 1657221788387,
+  :block/updated-at 1657221788387}
+ {:block/name "hormones",
+  :block/created-at 1657221788359,
+  :block/updated-at 1657226052620}
+ {:block/name "hot spots productivity",
+  :block/created-at 1657221788463,
+  :block/updated-at 1657221788463}
+ {:block/name "how exercise helps anxiety",
+  :block/created-at 1657221788451,
+  :block/updated-at 1657221788451}
+ {:block/name "how exercise improves learning in 3 levels",
+  :block/created-at 1657221788418,
+  :block/updated-at 1657221788418}
+ {:block/name "human growth hormone",
+  :block/created-at 1657221788483,
+  :block/updated-at 1657221788483}
+ {:block/name "hypothalamus",
+  :block/created-at 1657221788434,
+  :block/updated-at 1657221788434}
+ {:block/name "ikigai",
+  :block/created-at 1657221788514,
+  :block/updated-at 1657221788514}
+ {:block/name "imagining your future self",
+  :block/created-at 1657221788503,
+  :block/updated-at 1657221788503}
+ {:block/name "importance of exercise",
+  :block/created-at 1657221788530,
+  :block/updated-at 1657221788530}
+ {:block/name "importance of sleep",
+  :block/created-at 1657221788577,
+  :block/updated-at 1657221788577}
+ {:block/name "in-progress",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "insulin",
+  :block/created-at 1657221788608,
+  :block/updated-at 1657221788608}
+ {:block/name "intermittent fasting",
+  :block/created-at 1657221788561,
+  :block/updated-at 1657221788561}
+ {:block/name "john j. ratey",
+  :block/created-at 1657222181829,
+  :block/updated-at 1657222181829}
+ {:block/name "jul 7th, 2022",
+  :block/created-at 1657217033579,
+  :block/updated-at 1657221441438}
+ {:block/name "jul 8th, 2022",
+  :block/created-at 1657227604302,
+  :block/updated-at 1657227604302}
+ {:block/name "just do it!",
+  :block/created-at 1657221788543,
+  :block/updated-at 1657221788543}
+ {:block/name "knox's 10 commandments of detective fiction",
+  :block/created-at 1657221788639,
+  :block/updated-at 1657221788639}
+ {:block/name "later",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "learning in the brain",
+  :block/created-at 1657221788592,
+  :block/updated-at 1657221788592}
+ {:block/name "limbic system",
+  :block/created-at 1657221789690,
+  :block/updated-at 1657253954639}
+ {:block/name "lipid",
+  :block/created-at 1657221788622,
+  :block/updated-at 1657221788622}
+ {:block/name "lipoproteins",
+  :block/created-at 1657221788705,
+  :block/updated-at 1657221788705}
+ {:block/name "low density lipoproteins",
+  :block/created-at 1657221788668,
+  :block/updated-at 1657221788668}
+ {:block/name "maintenance day",
+  :block/created-at 1657221788653,
+  :block/updated-at 1657221788653}
+ {:block/name "making decisions",
+  :block/created-at 1657221788686,
+  :block/updated-at 1657221788686}
+ {:block/name "man is never satisfied",
+  :block/created-at 1657221788716,
+  :block/updated-at 1657251867144}
+ {:block/name "management of rare events with checklist",
+  :block/created-at 1657221788748,
+  :block/updated-at 1657221788748}
+ {:block/name "managing distractions",
+  :block/created-at 1657221788726,
+  :block/updated-at 1657221788726}
+ {:block/name "managing time",
+  :block/created-at 1657221788782,
+  :block/updated-at 1657221788782}
+ {:block/name "mathemathetics",
+  :block/created-at 1657221787224,
+  :block/updated-at 1657221787224}
+ {:block/name "mathematics",
+  :block/created-at 1657221788141,
+  :block/updated-at 1657221788141}
+ {:block/name "maximum heart rate",
+  :block/created-at 1657221788738,
+  :block/updated-at 1657221788738}
+ {:block/name "measuring productivity",
+  :block/created-at 1657221788759,
+  :block/updated-at 1657221788759}
+ {:block/name "microbes",
+  :block/created-at 1657221788769,
+  :block/updated-at 1657221788769}
+ {:block/name "microbes in the human body",
+  :block/created-at 1657221788831,
+  :block/updated-at 1657253330181}
+ {:block/name "mindfullness",
+  :block/created-at 1657221788797,
+  :block/updated-at 1657221788797}
+ {:block/name "mirror neurons",
+  :block/created-at 1657221788809,
+  :block/updated-at 1657221788809}
+ {:block/name "monosaccharide",
+  :block/created-at 1657221788869,
+  :block/updated-at 1657221788869}
+ {:block/name "more knowledge than we can handle",
+  :block/created-at 1657221788886,
+  :block/updated-at 1657221788886}
+ {:block/name "multitasking",
+  :block/created-at 1657221788932,
+  :block/updated-at 1657221788932}
+ {:block/name "neil pasricha",
+  :block/created-at 1657251867132,
+  :block/updated-at 1657251867132}
+ {:block/name "neomammalian brain",
+  :block/created-at 1657221788899,
+  :block/updated-at 1657221788899}
+ {:block/name "neurology",
+  :block/created-at 1657221786627,
+  :block/updated-at 1657221786627}
+ {:block/name "neurons",
+  :block/created-at 1657221788915,
+  :block/updated-at 1657221788915}
+ {:block/name "neurotransmitters",
+  :block/created-at 1657221788973,
+  :block/updated-at 1657221788973}
+ {:block/name "never retire",
+  :block/created-at 1657221789013,
+  :block/updated-at 1657221789013}
+ {:block/name "norepinephrine",
+  :block/created-at 1657221788952,
+  :block/updated-at 1657226014319}
+ {:block/name "now",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "nutrition",
+  :block/created-at 1657221787690,
+  :block/updated-at 1657221787690}
+ {:block/name "occipital lobe",
+  :block/created-at 1657221789002,
+  :block/updated-at 1657221789002}
+ {:block/name "paleomammalian brain",
+  :block/created-at 1657221788991,
+  :block/updated-at 1657221788991}
+ {:block/name "parietal lobe",
+  :block/created-at 1657221789046,
+  :block/updated-at 1657221789046}
+ {:block/name "parkingson's law",
+  :block/created-at 1657221789061,
+  :block/updated-at 1657221789061}
+ {:block/name "personality agreeableness",
+  :block/created-at 1657221789026,
+  :block/updated-at 1657221789026}
+ {:block/name "personality consientiousness",
+  :block/created-at 1657221789077,
+  :block/updated-at 1657221789077}
+ {:block/name "personality extraversion",
+  :block/created-at 1657221789147,
+  :block/updated-at 1657221789147}
+ {:block/name "personality neuroticism",
+  :block/created-at 1657221789118,
+  :block/updated-at 1657221789118}
+ {:block/name "personality openness",
+  :block/created-at 1657221789090,
+  :block/updated-at 1657221789090}
+ {:block/name "physical exercise",
+  :block/created-at 1657221789181,
+  :block/updated-at 1657221789181}
+ {:block/name "physical exercise and stress",
+  :block/created-at 1657221789104,
+  :block/updated-at 1657221789104}
+ {:block/name "physiological stress",
+  :block/created-at 1657221789134,
+  :block/updated-at 1657226038175}
+ {:block/name "plant protein",
+  :block/created-at 1657221789231,
+  :block/updated-at 1657221789231}
+ {:block/name "political polarization",
+  :block/created-at 1657221789197,
+  :block/updated-at 1657221789197}
+ {:block/name "polysaccharide",
+  :block/created-at 1657221789163,
+  :block/updated-at 1657221789163}
+ {:block/name "pomodoro technique",
+  :block/created-at 1657221789270,
+  :block/updated-at 1657221789270}
+ {:block/name "prefrontal cortex",
+  :block/created-at 1657221789213,
+  :block/updated-at 1657222514937}
+ {:block/name "procrastination",
+  :block/created-at 1657221789244,
+  :block/updated-at 1657221789244}
+ {:block/name "productivity",
+  :block/created-at 1657221787256,
+  :block/updated-at 1657221787256}
+ {:block/name "properties of flow",
+  :block/created-at 1657221789282,
+  :block/updated-at 1657221789282}
+ {:block/name "protein",
+  :block/created-at 1657221789258,
+  :block/updated-at 1657221789258}
+ {:block/name "protein is a building block of the body",
+  :block/created-at 1657221789312,
+  :block/updated-at 1657221789312}
+ {:block/name "protein triggers growth hormones",
+  :block/created-at 1657221789329,
+  :block/updated-at 1657221789329}
+ {:block/name "psychology",
+  :block/created-at 1657221786684,
+  :block/updated-at 1657221786684}
+ {:block/name "pythagoras theorem",
+  :block/created-at 1657221789345,
+  :block/updated-at 1657221789345}
+ {:block/name "random access memory",
+  :block/created-at 1657221789358,
+  :block/updated-at 1657221789358}
+ {:block/name "read-do checklist",
+  :block/created-at 1657221789369,
+  :block/updated-at 1657221789369}
+ {:block/name "reasons to use a checklist",
+  :block/created-at 1657221789384,
+  :block/updated-at 1657221789384}
+ {:block/name
+  "reasons why the political leader gives power to the dangerous demagogue",
+  :block/created-at 1657221789400,
+  :block/updated-at 1657221789400}
+ {:block/name "remember the lottery",
+  :block/created-at 1657221789422,
+  :block/updated-at 1657221789422}
+ {:block/name "reptilian brain",
+  :block/created-at 1657221789478,
+  :block/updated-at 1657221789478}
+ {:block/name "requirement for experiencing flow",
+  :block/created-at 1657221789448,
+  :block/updated-at 1657221789448}
+ {:block/name "roam:habit",
+  :block/created-at 1657221786605,
+  :block/updated-at 1657221786605}
+ {:block/name "rule of threes",
+  :block/created-at 1657221789411,
+  :block/updated-at 1657221789411}
+ {:block/name "saturated fat",
+  :block/created-at 1657221789433,
+  :block/updated-at 1657225573775}
+ {:block/name "self-confidence",
+  :block/created-at 1657221789491,
+  :block/updated-at 1657221789491}
+ {:block/name "serotonin",
+  :block/created-at 1657221789462,
+  :block/updated-at 1657221789462}
+ {:block/name "signaling in the brain",
+  :block/created-at 1657221789505,
+  :block/updated-at 1657221789505}
+ {:block/name "steven levitsky",
+  :block/created-at 1657221854168,
+  :block/updated-at 1657221854168}
+ {:block/name "storytelling",
+  :block/created-at 1657221786935,
+  :block/updated-at 1657221786935}
+ {:block/name "stress effect on the brain",
+  :block/created-at 1657221789522,
+  :block/updated-at 1657221789522}
+ {:block/name "stress inoculation",
+  :block/created-at 1657221789582,
+  :block/updated-at 1657221789582}
+ {:block/name "sugar",
+  :block/created-at 1657221789568,
+  :block/updated-at 1657221789568}
+ {:block/name "symptoms of depression",
+  :block/created-at 1657221789538,
+  :block/updated-at 1657221789538}
+ {:block/name "system 1",
+  :block/created-at 1657221789552,
+  :block/updated-at 1657221789552}
+ {:block/name "system 2",
+  :block/created-at 1657221789664,
+  :block/updated-at 1657221789664}
+ {:block/name "sönke ahrens",
+  :block/created-at 1657218635113,
+  :block/updated-at 1657218635113}
+ {:block/name "temporal lobe",
+  :block/created-at 1657221789594,
+  :block/updated-at 1657221789594}
+ {:block/name "thalamus",
+  :block/created-at 1657221789736,
+  :block/updated-at 1657225963651}
+ {:block/name "the cortex",
+  :block/created-at 1657221789829,
+  :block/updated-at 1657221789829}
+ {:block/name "the flawed character",
+  :block/created-at 1657221789802,
+  :block/updated-at 1657253077724}
+ {:block/name "the procrastination equation",
+  :block/created-at 1657221789785,
+  :block/updated-at 1657221789785}
+ {:block/name "the reward center",
+  :block/created-at 1657221789768,
+  :block/updated-at 1657251468933}
+ {:block/name "things people regret most when they die",
+  :block/created-at 1657221789750,
+  :block/updated-at 1657221789750}
+ {:block/name "things that hinder flow",
+  :block/created-at 1657221789817,
+  :block/updated-at 1657221789817}
+ {:block/name "tim spector",
+  :block/created-at 1657222488237,
+  :block/updated-at 1657222488237}
+ {:block/name "todo",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "tools for overthrowing democracy",
+  :block/created-at 1657221790045,
+  :block/updated-at 1657221854182}
+ {:block/name "treating depression",
+  :block/created-at 1657221789893,
+  :block/updated-at 1657221789893}
+ {:block/name "unsaturated fat",
+  :block/created-at 1657221789844,
+  :block/updated-at 1657222488255}
+ {:block/name "uses of fat",
+  :block/created-at 1657221789910,
+  :block/updated-at 1657221789910}
+ {:block/name "using your prime time",
+  :block/created-at 1657221789873,
+  :block/updated-at 1657221789873}
+ {:block/name "wait",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name "waiting",
+  :block/created-at 1657216042362,
+  :block/updated-at 1657216042362}
+ {:block/name
+  "ways political parties and leaders can help defend democracy from authoritarian leader",
+  :block/created-at 1657221789957,
+  :block/updated-at 1657221789957}
+ {:block/name "ways to arouse curiousity",
+  :block/created-at 1657221789926,
+  :block/updated-at 1657225072487}
+ {:block/name "ways to be happy",
+  :block/created-at 1657221789990,
+  :block/updated-at 1657222009154}
+ {:block/name "ways to identify potential autocratic leader",
+  :block/created-at 1657221789941,
+  :block/updated-at 1657221789941}
+ {:block/name "ways to improve sleep",
+  :block/created-at 1657221789968,
+  :block/updated-at 1657222546565}
+ {:block/name "ways to prevent procrastination ",
+  :block/created-at 1657221789297,
+  :block/updated-at 1657221789297}
+ {:block/name "we live in a specialized society",
+  :block/created-at 1657221789978,
+  :block/updated-at 1657225594813}
+ {:block/name "why humanity can't do what it wants to do in the world",
+  :block/created-at 1657221790035,
+  :block/updated-at 1657251813818}
+ {:block/name "will storr",
+  :block/created-at 1657225072467,
+  :block/updated-at 1657225072467}
+ {:block/name "working memory",
+  :block/created-at 1657221790004,
+  :block/updated-at 1657221790004}
+ {:block/name "zeigarnik effect",
+  :block/created-at 1657221790022, 
+  :block/updated-at 1657221790022}]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       34a62081-736d-4b15-bd6a-bed8b6a700ba
+:END:
+#+title: five stages of a story
+#+date: [2022-06-20 Mon 11:27]
+#+filetags: :Storytelling:
+
+* Content
+** A story does not require five stages, and the stages can change. It is not a constant formula, but can be adapted - it is equivilent to a popular 3.5 minute pop song - the right length to draw your attention
+** stories often have a symmetry - often when the hero is at his worst the villan is at his best and vice versa
+*** Step 1. This is me and it is not working - the old [[id:6deda222-297c-4faa-9669-31cc2e6052e4][characters theory of control]] is not working, [[id:330dbd30-3623-49ee-b4ac-eff187edb7ab][the flawed]] is causing problems, and an unexpected change happens
+*** Step 2. Is there another way? - The old theory of control starts to break up. there is excitement and anticipation of a new way forward
+*** Step 3. There is a way. And i have changed - the main character manages to advance with their new ways but then their is another plot twist
+*** Step 4. Can I survive the pain of change - The main character reaches his lowest point and starts to doubt is decision to change. he has to decide, who is he going to be.
+*** Step 5. Who am I going to be? - anticipation is built up for the climax. the heros gains control of the plot. the chaos disapears and the hero finds an answer to his question
+
+* References
+[[id:3ec551c8-3088-4cd7-b290-b703e790b5c0][The Science of StoryTelling]]

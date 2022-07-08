@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       346270b0-9cf6-4377-84b8-a42c611165c2
+:END:
+#+title: cortisol
+#+date: [2022-06-23 Thu 19:42]
+#+filetags: :Health:Biology:Neurology:
+
+* Content
+** The main human [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][stress]] [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormone]]
+** When released in response to stress. it can:
+*** Increase blood sugar
+*** enhances brain use of glucose
+*** increases availabilty of substances in blood that help repairs
+** When stress is being released constantly your body enters a state of chronic stress
+** during stress:
+*** signals the liver to make more glucose available in the bloodstream.
+*** blocks [[id:79bc4aec-12c7-4c6d-8e73-7ceb42ecbb76][insulin]] reseptors at nonessential tissues and organs
+*** This is so the important organs will have enough glucose
+*** begins replenishing energy stores - converts [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]] to glygogen and begins storing fat
+*** this is why a symptom of [[id:04f76d5b-29fa-42ca-a321-cfebce73e4f2][chronic stress]] is weight gain
+** [[id:3ec09233-042e-4a9c-bbd7-c3d0eefc6a14][stress effect on the brain]]
+
+* References
+** https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037
+** [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

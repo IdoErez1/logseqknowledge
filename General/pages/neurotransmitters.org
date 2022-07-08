@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438
+:END:
+#+title: neurotransmitters
+#+date: [2022-06-24 Fri 04:40]
+#+filetags: :Neurology:
+
+* Content
+** the body's chemical messenger
+** Used by the nervous system to transmit messages between neurons
+** different from [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormones]] because they are:
+*** located in the nervous system
+*** very quick to respond(usually within a few millisecond)
+** Examples include:
+*** [[id:2c9d39ae-aa8e-466c-9704-c963f2bb1c92][serotonin]]
+*** [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]]
+*** [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]]
+
+* References
+** http://www.differencebetween.net/science/health/difference-between-hormones-and-neurotransmitters/

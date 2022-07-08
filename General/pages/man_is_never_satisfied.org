@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8f2e40d1-ce20-4753-9f59-0c88019b345d
+:END:
+#+title: Man is never satisfied
+#+date: [2022-06-20 Mon 15:44]
+
+* Content
+** Man always want more.
+** When they achieve their goal they set new ones.
+** This way a man will chase a goal without ever feeling satisfied.
+* Related Pages
+** [[@The Happiness Equation: Want Nothing + Do Anything = Have Everything]]

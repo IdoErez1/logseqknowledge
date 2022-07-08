@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1a0d7f41-29e0-4f7c-81c9-a7250ecbec8f
+:END:
+#+title: effects of physical exercise on moon and depression
+#+date: [2022-06-23 Thu 19:57]
+#+filetags: :Health:
+
+* Content
+** [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] can boost mood and help [[id:9049269e-a96a-4b55-9a05-4ee9a25bb09c][depression]]
+** boosts [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]], [[id:2c9d39ae-aa8e-466c-9704-c963f2bb1c92][serotonin]] and [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]]
+*** This is usually the same thing that anti-[[id:9049269e-a96a-4b55-9a05-4ee9a25bb09c][depression]] drugs do
+
+* References
+[[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

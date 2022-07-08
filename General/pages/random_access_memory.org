@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       ca763bf3-e6a8-43e3-bfb3-4aee70c39e2c
+:END:
+#+title: random access memory
+#+date: [2022-06-24 Fri 06:36]
+#+filetags: :Computers:
+
+* Content
+
+
+* References

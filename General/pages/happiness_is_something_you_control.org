@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b335ee64-c8f5-4848-8a9f-ff149a90fa40
+:END:
+#+title: Happiness is something you control
+#+date: [2022-06-20 Mon 11:43]
+* Content
+** Happiness is something that is dependent on the person
+** It is not dependent on life circumstances or luck
+** people who can control their inner experience can control their quality of life
+** [[id:c35c4ac5-7c28-48b2-be2f-b25fd1f917f2][Happiness can't be achieved by actively searching for it]]
+** Life is full of things you can't control, however all of us have experienced the feeling of having complete control over your life, these experiences are the unforgetable moments that give us the feeling of happiness and fullfillment
+** These experiences are called [[id:ccb00cf7-31a4-4a69-9942-a43df0906364][Flow experience]]
+
+* References
+[[id:0e414aed-c9ad-4545-8dc4-521c59f5ea20][Flow: The Psychology of Optimal Experience]]
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]

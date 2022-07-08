@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       bde388ee-85c2-416d-97b9-ca9b8fb12dbb
+:END:
+#+title: Never retire
+#+date: [2022-06-20 Mon 17:30]
+* Content
+** Retiring is a relitivly new thing in human history
+*** Retiring was created by Bismarck in 1889 to free the workforce for the younger generation
+*** It was created when the average lifespan was 65. so that was the retirement age. Now the average lifespan is about 80 and retirement age hasn't changed
+** [[id:47b91658-fdec-49ad-9444-049b1fb758f8][Benefits from work]]
+** many cultures do not have retirement and people there are happier and have longer lifespans
+** one of the cultures is the japanese culture of okinawa. The island with the highest lifespan in the world
+*** this culture also has the concept of [[id:43369fb8-9543-4d93-a1e9-8bb18303e0fc][Ikigai]]
+** When you retire you lose all the advantages of work. therefore *never retire*
+
+* References
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]

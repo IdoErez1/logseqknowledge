@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b8d8f7b5-2f7f-40ff-af7d-25b0b533f391
+:END:
+#+title: fight or flight response
+#+date: [2022-06-25 Sat 20:55]
+#+filetags:
+
+* Content
+** A reaction of server [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][physiological stress]]
+** called this way because a person typically reacts to danger in 2 ways:
+*** running away(flight)
+*** attemping to confront(fight)
+*** there is often a third response - when you get overwhelmed and you freeze
+* References
+** [[@Spark!: How Exercise Will Improve the Performance of Your Brain]]

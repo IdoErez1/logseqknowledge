@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       dac4e3c7-b566-42b4-a55b-90ce38e2f2ad
+:END:
+#+title: importance of exercise
+#+date: [2022-06-22 Wed 08:05]
+#+filetags: :Productivity:Exercise:
+
+* Content
+** exercise provides many cognitive benifits.
+** aerobic is most important for congnitive benfits - it is important to raise your pulse
+** It is useful to make exercise a [[id:8e1fbc6a-882e-4783-8194-c1f304dbb4d0][habit]] so that the brain won't require willpower to do it
+** benfits include:
+*** improves [[id:b2801aee-8a48-4128-8336-79ba9b9100e3][focus]]
+*** increases blood flow to brain
+*** reduces fatigue and "tiredness"
+*** reduces [[id:875c86f3-f4b4-4c08-8f92-4fc8ff11de2c][physiological stress]]
+*** helps learn faster
+*** improves mood and depression
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

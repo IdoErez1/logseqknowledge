@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9ebbb188-1440-4412-aa34-4d8b8b839171
+:END:
+#+title: microbes in the human body
+#+date: [2022-06-22 Wed 10:02]
+#+filetags: :Health:
+
+#+tags: books
+
+* Content
+** There are a huge number of microbes in the human body
+** most of them are in the guts and digestive system
+** These microbes usually have a symbiosis relationship with us and are helpful
+** The microbal enviroment changes acording to our nutrition and quality of life
+** [[id:89e1f26f-d232-41ac-873a-31d2cbd2787c][effect of the microbal enviroment]]
+** In general it is best that the microbal enviroment is as rich as possible since different kind of [[id:cfe0883b-04ec-4fd0-a1b0-0ca4f50f2a9a][microbes]] make up for what the rest can do and the enviroment can better adapt according to what you need.
+** The microbal enviroment can predict weight better than genetics
+** The difference in microbal enviroment between people is the main reason why some diets work for some while not working for others
+* References
+[[@The Diet Myth: The Real Science Behind What We Eat]]

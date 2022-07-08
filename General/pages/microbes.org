@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       cfe0883b-04ec-4fd0-a1b0-0ca4f50f2a9a
+:END:
+#+title: microbes
+#+date: [2022-06-22 Wed 09:25]
+* Content
+** Tiny living things that are found all around us.
+** Types of microbes:
+*** bacteria
+*** fungus
+*** viruses
+** can't be seen by the naked eye
+** are everywhere from water, soil and air
+** [[id:9ebbb188-1440-4412-aa34-4d8b8b839171][appear in the body]]
+
+* References
+** https://www.ncbi.nlm.nih.gov/books/NBK279387/

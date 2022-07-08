@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       43369fb8-9543-4d93-a1e9-8bb18303e0fc
+:END:
+#+title: Ikigai
+#+date: [2022-06-20 Mon 17:38]
+* Content
+** Japanese concept ariving from the island of okinawa
+** roughly translates to "a reason to wake up in the morning"
+** They believe every man has an Ikigai and possibly even more than one Ikigai
+** Ikigai needs to fulfill the following requirements:
+*** Can earn you money - you need to eat after all
+*** you like doing it
+*** you are good at it
+*** it helps the world - otherwise you will feel meaningless
+** The Ikigai needs to be your occupation
+** [[id:47b91658-fdec-49ad-9444-049b1fb758f8][Benefits from work]]
+
+* References

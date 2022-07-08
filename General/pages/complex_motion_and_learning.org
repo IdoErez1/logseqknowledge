@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       fa6b6d6a-30c1-4407-8b8a-1f69a8d2b7c7
+:END:
+#+title: complex motion and learning
+#+date: [2022-06-25 Sat 20:06]
+#+filetags:
+
+* Content
+** complex motion can expand and strengthen neural networks
+** the more complex the movement the more complex the connections will be
+** they can be recruited by other areas of [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]] and used for thinking
+** this is why learning piano can help a kid be better at math
+** caused because of the strong connection between [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][cerebellum]] and learning
+** [[id:9a641264-8172-4dcb-9183-37e0b5754c08][how exercise improves learning in 3 levels]]
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]][p. 58]

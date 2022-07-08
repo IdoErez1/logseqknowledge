@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       d2abac0f-fb8c-4b0c-815a-da805c05c74d
+:END:
+#+title: blood sugar
+#+date: [2022-06-22 Wed 15:03]
+#+filetags: :Health:
+
+* Content
+** [[id:630e3c02-272b-4966-b8de-2340bef0567c][damages of excess blood sugar]]
+
+* References

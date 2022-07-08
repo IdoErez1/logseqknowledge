@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       99045ea0-0768-4b12-897b-7e4a9c0bf227
+:END:
+#+title: Happiness as an end to all means
+#+date: [2022-06-20 Mon 11:40]
+* Content
+** 2300 years ago Aristotle argued that happiness the end goal of all action
+** Everything else, beauty, wisdom, money, power is just a means to reach that end
+
+* Related Pages
+
+
+* References
+[[id:0e414aed-c9ad-4545-8dc4-521c59f5ea20][Flow: The Psychology of Optimal Experience]]

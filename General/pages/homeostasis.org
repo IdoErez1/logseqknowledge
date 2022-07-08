@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       40b83230-67ae-4e3d-900e-f830232a6e37
+:END:
+#+title: homeostasis
+#+date: [2022-06-23 Thu 19:33]
+#+filetags: :Anatomy:Biology:
+
+* Content
+** Homeostasis is the body's tendency to retain it's current conditions
+** It is made up of negative feedback mechanisms
+** This means that for example if the body temperature is too high it will lower it
+** mainly maintained by the hypothalamus
+** is done using signaling hormones
+
+* References

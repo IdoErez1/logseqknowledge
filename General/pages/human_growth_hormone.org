@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f111714c-9b2c-48cb-b632-8707c65dd6a4
+:END:
+#+title: human growth hormone
+#+date: [2022-06-23 Thu 18:36]
+#+filetags: :Anatomy:
+
+* Content
+** A hormone produced by the pituitary gland(in the brain)
+** has several functions:
+*** spurs growth in children and adolescents
+*** helps to regulate body composition, muscles and bone growth
+** for people with a defecit, injections of HGH can help:
+*** increase muscles and bone mass
+*** improve exercise capacity
+*** increase [[id:46c87ed4-d1cd-406a-924d-50f7d8a78f0b][fat loss]]
+** however it is unproven if the benefits carry over to healthy adults
+** can be increased by [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] and [[id:cf8f4917-c37b-4ac1-9771-6403184b3e32][intermittent fasting]]
+
+* References
+** https://www.webmd.com/fitness-exercise/human-growth-hormone-hgh
+** https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/growth-hormone/art-20045735

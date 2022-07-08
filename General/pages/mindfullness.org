@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3cb9e92f-51d2-455b-884c-a53e92ee42b7
+:END:
+#+title: mindfullness
+#+date: [2022-06-22 Wed 08:15]
+#+filetags: :Productivity:Focus:
+
+* Content
+** The act of focusing on one thing only at a time
+** being aware and [[id:b2801aee-8a48-4128-8336-79ba9b9100e3][focused]] on the present
+** can be improved by mindfulness meditation or activity
+** examples of mindfullness activities:
+*** reading a book while focusing only on the content without letting your mind wander
+*** active listenting - focus on what is said without letting your mind wander
+*** eating - focus on the food, taste texture and nothing else
+*** [[id:3702628b-0d89-4ae3-9add-4ff207bc38d5][pomodoro technique]]
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

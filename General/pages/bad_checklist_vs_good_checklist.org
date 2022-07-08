@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       1ae9ed19-8ae2-4308-8d89-c2d2a1d01860
+:END:
+#+title: bad checklist vs good checklist
+#+date: [2022-06-22 Wed 09:00]
+* Content
+** Bad checklist:
+*** unclear and not accurate
+*** long
+*** write down every little detail
+*** assume people are beginners and don't know what they are doing
+*** written in a difficult to read way with hard font and many colors
+** Good checklists:
+*** clear and accurate
+*** easy to use even in complex situations
+*** short - include 5-9 items, the limit of the [[id:19009122-eee1-4504-9b32-dc7ebe6c2251][working memory]]
+*** assume the reader is an expert. only need to remind him of the critical information
+*** written in a clear way:
+**** large text
+**** clear font
+**** no colors
+**** easy to see the page
+
+* References
+[[id:ae811ef3-6e5f-4546-be34-b00ad2eb50fa][The Checklist Manifesto]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       704fa7bd-b094-42df-b46f-f954bcf0c5ae
+:END:
+#+title: protein
+#+date: [2022-06-22 Wed 10:20]
+* Content
+** [[id:edba7318-b9d6-470d-92fa-8fe22efd79ae][protein is a building block of the body]]
+** made up of [[id:439ec7e4-cdca-4370-a3b1-35f015dcbe35][amino acids]]
+** [[id:586e9ba3-8cda-4d26-8447-2fdec9a38734][protein triggers growth hormones]]
+** The body cannot store amino acids therefore a daily intake of protein is neccessary
+** The recommended does of protein is:
+*** 0.8 grams per kg of body weight but for an active person can reach 1.4-2.0 grams per kg of body weight
+** eating a high amount of calories while in a calorie deficit can help reduce loss of muscle mass
+
+* References
+[[id:a76e4013-c941-4349-9ec6-3257b1416bb6][The Diet Myth]]
+[[id:69d48579-6db5-40fa-b528-ca007d582254][The Diet Compass]]
+[[id:532a0a2d-66b4-459f-93c9-e938c8450247][Eat Drink and be Healthy]]

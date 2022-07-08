@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       254a5311-c641-46e5-95ef-dda12fe3f36d
+:END:
+#+title: disaccharide
+#+date: [2022-06-22 Wed 15:08]
+#+filetags: :Nutrition:Health:
+
+* Content
+** componsed of 2 molecules of [[id:14d81774-6fc7-408c-b0a4-229cc6019172][monosaccharide]] connected to each other
+** Examples include:
+*** Sucrose (glucose + fructose) - Table sugar
+*** Lactose (lactate + glucose) - found in milk products
+*** Maltose (glucose + glucose) - created in seeds
+
+* References

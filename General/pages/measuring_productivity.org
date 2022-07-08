@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       e39537b0-f065-4558-a4fe-145416b3e61d
+:END:
+#+title: measuring productivity
+#+date: [2022-06-21 Tue 13:18]
+* Content
+** one good way is to ask yourself "did i manage to achieve what i wanted to achieve"
+** Try to understand how the [[id:80faef5a-04ea-402c-9d3a-de3b2a5eb253][components of productivity]] were influenced:
+*** time - did I utilize my time well? did i procrastinate and take breaks?
+*** focus - was I focus or was my [[id:98887e13-1be9-49f4-bb68-bb807071e4f3][attention]] distracted easily
+*** energy - how much motivation and general energy did i have? was it consistent or was it in sudden bursts?
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

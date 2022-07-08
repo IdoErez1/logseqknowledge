@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e0848eb1-4ab4-4dfc-a6f2-587af05090ed
+:END:
+#+title: git remote repositories
+#+date: [2022-06-29 Wed 14:24]
+#+filetags: :Computers:
+
+* Content
+** In order for people to colaberate using [[id:e8f0ff0e-fbb5-45ee-8330-3cf70a7daf19][git]] you need a remote repository
+** On example of a remote repository provider is github
+** git clone "github.cs.huji.ac.il/aviv-yaish/poetrybook.git"   :clones to remote repository
+** git remote -v    :shows all remote repositories that can be used by local repository
+** get remote -add <repository-name> <repository-url>     :adds new remote repository
+** git push <remote-repository-name>      :commits to local repository
+** You can also commit using github
+** git log
+** git fetch <remote-repository-name>      :"downloads" data from remote git repository. merging with the main [[id:08d70bbd-9709-4516-bcca-411970ee4951][branch]] will be required afterwards
+** git pull <remote-repository-name>      :commits to local repository and downloads data. merging with the main branch will be required afterwards
+
+
+* References
+** [[id:589d61ed-6589-4c45-8e58-f96fc02cee22][IntroCSE course]]
+** https://www.youtube.com/watch?v=0ROoxxlje1Y&feature=youtu.be

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       439ec7e4-cdca-4370-a3b1-35f015dcbe35
+:END:
+#+title: amino acids
+#+date: [2022-06-22 Wed 10:25]
+* Content
+** molecules that build all the [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]] that is in the body
+** The body uses 20 amino acids
+*** 9 of the 20 are essential amino acids and can not be created by the body
+**** [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]] that contains all the essential amino acids are called [[id:d9e215d7-b962-42bd-ae2d-9cdfac253f91][complete proteins]]
+
+* References

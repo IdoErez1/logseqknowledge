@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       414f3e05-bb76-4f1b-83fd-726d0750fe91
+:ROAM_ALIASES: "nerve cell"
+:END:
+#+title: neurons
+#+date: [2022-06-24 Fri 06:51]
+#+filetags: :Neurology:
+
+* Content
+** Nerve cells
+** Most have one long skinny extention called an axon on one end
+*** The axon sends information to another neuron or muscle cell
+** The other end has a tree of shorter barbs called dendrites that recieve signals from axons
+** when we see, taste or touch it is nerve cells that relay the information to [[id:6753d3de-3cd6-4851-88fd-a22e0f9273dc][the brain]]
+** the nerve cells are coated by something called myelin, that keeps charged ions out of the cells
+*** there are however small breaks, or channals in the myelin that allow ions to enter.  
+*** these ion channals are used to increase speed and efficiency of neural connections.
+*** there are also junctions called synapses that are used by [[id:7a5dfa2e-5784-4d03-aae5-d5fb5d6cd438][neurotransmitters]] like [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]] and [[id:2c9d39ae-aa8e-466c-9704-c963f2bb1c92][serotonin]] to communicate to adjacent cells
+
+
+* References
+** [[id:0b77b034-76c1-4677-859f-dbc8ba1ca3b0][A History of the Human Brain: From the Sea Sponge to CRISPR, How Our Brain Evolved]][p.35]

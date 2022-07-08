@@ -1,0 +1,37 @@
+:PROPERTIES:
+:ID:       e8f0ff0e-fbb5-45ee-8330-3cf70a7daf19
+:END:
+#+title: git and version control
+#+date: [2022-06-29 Wed 10:24]
+#+filetags: :Computers:
+
+* Content
+** used to control file version so that many people can work on a project and in case we introduced a new bug we can roll back to a previous version
+** commands:
+*** git --version   : verifies that git is installed and shows what version
+*** git config --global user.name "Ido Erez"    : Sets name in git config
+*** git config --global user.email "ido.erez729@gmail.com     : Sets email in git config
+*** git config --list     : Shows all changes made
+*** git init      :starts git in current directory/Initalzes an empty git repository
+*** git status      :shows what files are inside git repository
+*** git add working_memory.org     :adds the file(either new file or updated file) to repository, won't be updated until commited to staging area
+*** git add -A     :Adds all changed but unstaged files to staging area
+*** git commit -m "added a new file"     :updates the changes and adds a comment for what has been changed
+*** git rm PaleFire     :deletes the file from staging area and tracking
+*** git rm --cached <filename>    :removes the file only from git tracking
+*** git diff --stage     :shows all files that were changed but not yet commited
+*** git diff     :shows all changes that are not yet in the staging area
+*** git commit -a -m "comment"     : adds and commits at the same time
+*** git log --oneline --graph --decorate --all    :shows a log of all commits and their comments
+*** git revert -n <version-number>  : reverts the version back to a previous one.
+*** git reset HEAD <file-name>    :removes file from staging area and returns it to unstaged
+*** git checkout   :reverts changes in working directory
+*** git help <command>    :shows syntax and usage of a git command
+*** git mv <old-filename> <new-filename>    :move or changes name of file. automatically added to staging area
+** .gitignore file - when created in the repository, all file names in it will not be included in the git, that means that files in the folder that you don't want in the git can be added here. supports wildcards
+** #+DOWNLOADED: screenshot @ 2022-06-29 13:47:54
+[[file:../../Pictures/org-downloads/Content/2022-06-29_13-47-54_screenshot.png]]
+** [[id:08d70bbd-9709-4516-bcca-411970ee4951][Git Branching]]
+** [[id:e0848eb1-4ab4-4dfc-a6f2-587af05090ed][git remote repositories]]
+* References
+** [[id:589d61ed-6589-4c45-8e58-f96fc02cee22][IntroCSE course]]

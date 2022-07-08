@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       04f76d5b-29fa-42ca-a321-cfebce73e4f2
+:END:
+#+title: chronic stress
+#+date: [2022-06-23 Thu 19:46]
+#+filetags: :Health:
+
+* Content
+** When your body is in an almost constent state of stress
+** Symptoms include: 
+*** Anxiety
+*** Depression
+*** Digestion problems
+*** Headaches
+*** Muscle tension and pain
+*** Heart disease
+*** Sleep Problems
+*** Weight gain
+*** Memory impairment
+
+* References
+** https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037

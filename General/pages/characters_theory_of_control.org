@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6deda222-297c-4faa-9669-31cc2e6052e4
+:END:
+#+title: characters theory of control
+#+date: [2022-06-20 Mon 10:48]
+#+filetags: :Storytelling:
+
+* Content
+** The theory of control the way a character in a story learned to control their world
+*** What do they do when something unexpected happens
+*** How do they respond
+** The answer is dependent on their image of reality - how the world works, and on their beliefs
+** It is also dependent on [[id:e5280103-5677-453a-8faf-8cfbbc67827d][personality]]
+
+
+
+* References
+[[id:3ec551c8-3088-4cd7-b290-b703e790b5c0][The Science of StoryTelling]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       0a0718f3-d2f6-49d7-95af-dae891b31ee7
+:END:
+#+title: mirror neurons
+#+date: [2022-06-26 Sun 23:24]
+#+filetags:
+
+* Content
+** fire not only when we carry out a certain activity or motion, but when someone else does it
+** the theory is that it is necessarry to understand the intent of others and to learn new skills - being like the group
+
+
+* References
+** [[id:0b77b034-76c1-4677-859f-dbc8ba1ca3b0][A History of the Human Brain: From the Sea Sponge to CRISPR, How Our Brain Evolved]][p.110]

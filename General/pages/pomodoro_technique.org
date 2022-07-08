@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       3702628b-0d89-4ae3-9add-4ff207bc38d5
+:END:
+#+title: pomodoro technique
+#+date: [2022-06-22 Wed 08:19]
+* Content
+** a technique to improve focus
+** it is done by working on a task for 25 minutes and then taking a 5 minute break
+
+* References

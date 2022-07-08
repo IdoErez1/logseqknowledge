@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       124a74df-4a31-4171-b46d-549b7a505162
+:END:
+#+title:  prefrontal cortex
+#+date: [2022-06-24 Fri 04:16]
+#+filetags: :Neurology:
+
+* Content
+** area of the brain responsible for higher order thinking and [[id:19009122-eee1-4504-9b32-dc7ebe6c2251][working memory]]
+** The CEO of the brain. organizes activity, both mentally and physically
+** receives input from a variety of brain areas and issues instruction
+** keeps tabs on current status using [[id:19009122-eee1-4504-9b32-dc7ebe6c2251][working memory]].
+*** the [[id:aaf30464-2992-4ff9-8c5e-ed1f43ec161d][hippocampus]] then receives input from the working memory
+** stays in close contact with [[id:eccbaae0-ce4e-4d02-b7ed-68fbf47cbb3e][the cerebellum]]
+** #+DOWNLOADED: screenshot @ 2022-06-25 20:21:08
+[[file:../../Pictures/org-downloads/Content/2022-06-25_20-21-08_screenshot.png]]
+* References
+** [[@Spark!: How Exercise Will Improve the Performance of Your Brain]] /[p. 44]

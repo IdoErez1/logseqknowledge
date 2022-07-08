@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f04960e3-0dc9-4f4c-adeb-3f1fe8cbd4ea
+:END:
+#+title: hot spots productivity
+#+date: [2022-06-22 Wed 00:40]
+* Content
+** According to J.D. Meier there are 7 domains of your life that you spend your time on:
+*** Mind
+**** This includes things like:
+***** Learning
+***** Meditation
+***** Music
+*** Body
+*** Emotions
+*** Career
+*** Finances
+*** Relationships
+*** Fun
+** The idea behind this technique is that once a week you review your list of hot spots and decide if you spent your time on what you wanted to and what to focus on in the week ahead
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       89e1f26f-d232-41ac-873a-31d2cbd2787c
+:END:
+#+title: effect of the microbal enviroment
+#+date: [2022-06-22 Wed 10:05]
+* Content
+** The microbal enviroment can affect:
+*** immune system
+*** the brain(gut brain relationship)
+*** mood
+*** mental states like depression
+
+* References

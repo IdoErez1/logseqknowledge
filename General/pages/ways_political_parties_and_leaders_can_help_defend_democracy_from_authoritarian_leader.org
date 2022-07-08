@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6ad3bd9a-6209-4974-993e-c742e88ae663
+:END:
+#+title: Ways political parties and leaders can help defend democracy from authoritarian leader
+#+date: [2022-06-19 Sun 19:29]
+
+* Content
+** There are four general ways parties and leaders can help defend democracy from authoritarian leaders:
+*** deny them the ability to participate in elections by failing to nominate them
+**** This will probably come at a price of additional votes that will be lost
+*** Purge the radicals from the political party
+*** Refuse to co-operate with or join another political radical anti-democratic party
+**** Often times moderate parties will join up with a radical party in order to secure a majority. This can have drastic consiquences as seen with germany and italy
+*** Isolate the radical leaders/parties politically
+* References
+[[id:ca23a014-aa9d-41ef-9cad-b8399adf9f3e][How Democracies Die]]

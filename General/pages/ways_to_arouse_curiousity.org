@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       08b49fbd-9ec5-4e89-8a81-9aedb20ec3d2
+:END:
+#+title: Ways to arouse curiousity
+#+date: [2022-06-20 Mon 07:28]
+#+filetags: :Storytelling:
+
+* Content
+** The psychologist Loewenstein summarizes four ways to arouse curiousity:
+*** Presentation of a riddle or puzzle
+*** Presentation of the order of events with expected but unknown outcome
+*** Brake the expectations that create a search for an explation
+*** The knowledge someone else has knowledge
+* Related Pages
+[[id:4f5f7c02-2f61-48fe-8471-1e32d0e7d10d][Curiousity Curve]]
+* References
+[[@The Science of Storytelling: Why Stories Make Us Human and How to Tell Them Better]]

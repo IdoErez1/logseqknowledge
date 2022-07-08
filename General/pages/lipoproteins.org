@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       71f21efc-d8e8-43ce-abea-4ba2f2e93c11
+:END:
+#+title: lipoproteins
+#+date: [2022-06-22 Wed 13:18]
+#+filetags: :Health:Anatomy:
+
+* Content
+** Lipoprotein is a combination of a lipid and [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]]
+** Used to move [[id:428a0e92-c8ba-453d-81c0-a25210bbc977][cholesterol]] in the bloodstream since it can't move on it's own 
+*** We divide the [[id:71f21efc-d8e8-43ce-abea-4ba2f2e93c11][lipoproteins]] carrying [[id:428a0e92-c8ba-453d-81c0-a25210bbc977][cholesterol]] in the bloodstream into 2 types:
+**** [[id:9621acc2-2833-4495-a5b5-513c2c3c4c56][high density lipoproteins]]
+**** [[id:74199f34-7d52-4c67-9573-baf0c32fef70][low density lipoproteins]]
+
+* References

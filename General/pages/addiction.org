@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       004b0981-6394-4111-96b6-c253b3481c92
+:END:
+#+title: addiction
+#+date: [2022-06-26 Sun 15:31]
+#+filetags:
+
+* Content
+** a habbit that is usually harmful
+** to recover from the habit it is best to remove the cues so it won't happen [[id:9da5907c-ac8f-4fe6-b235-03dd2d9070b4][automaticly]] and no urge will occur
+** it can also be attempted to overcome the habit by doing something that triggers a reward when an urge appears
+*** this is in order to try and generate a new stronger [[roam:habit]] from the same cue
+**** [[id:2538779c-9288-471d-9d37-697cf427a6db][exercise and addiction]]
+** To illustrate the powers of drugs, while sex increases [[id:7ebb4a36-1c37-473c-a8e7-9f67ec9320ac][dopamine]] levels to 50-100%, cocain increases it by 300-800% beyond normal levels
+
+* References
+**  [[id:5f6d8018-eb0c-48c3-b7c9-02c5bcf637f3][Spark: The Revolutionary New Science of Exercise and the brain]]

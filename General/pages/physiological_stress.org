@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       875c86f3-f4b4-4c08-8f92-4fc8ff11de2c
+:END:
+#+title: physiological stress
+#+date: [2022-06-23 Thu 19:31]
+#+filetags: :Neurology:
+
+* Content
+** stress is when any external or internal condition challanges [[id:40b83230-67ae-4e3d-900e-f830232a6e37][homeostasis]]
+** as a response it generages [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormones]] such as [[id:eecce8cc-1fd2-48f2-9f72-f71bd01764b5][norepinephrine]] and [[id:346270b0-9cf6-4377-84b8-a42c611165c2][cortisol]] to try and bring things back into their healthy state
+** can be damaging if happens [[id:04f76d5b-29fa-42ca-a321-cfebce73e4f2][chronically]]
+** [[id:bf8e5885-8392-4003-951b-085af543b17f][physical exercise]] can help handle stress better because of [[id:d3193c06-47dc-4183-9e86-c9a65008cc29][stress inoculation]]
+* References
+[[@Spark!: How Exercise Will Improve the Performance of Your Brain]] /

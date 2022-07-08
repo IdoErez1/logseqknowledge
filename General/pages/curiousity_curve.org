@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       4f5f7c02-2f61-48fe-8471-1e32d0e7d10d
+:END:
+#+title: curiousity Curve
+#+date: [2022-06-20 Mon 07:40]
+#+filetags: :Psychology:Storytelling:
+
+* Content
+** According to curiosity based on information gap theory, arises when an individual has a gap of information propmpting it to complete it's knowledge gap
+*** The more knowledge an individual lacks the more curious he will be up to a certain point where he can begin to infer the knowledge he lacks and the curiosity diminishes. This way curiosity follows a curve of a reverse parabula
+*** #+DOWNLOADED: screenshot @ 2022-06-20 10:08:18
+[[file:../../Pictures/org-downloads/Content/2022-06-20_10-08-18_screenshot.png]]
+* References
+[[id:3ec551c8-3088-4cd7-b290-b703e790b5c0][The Science of StoryTelling]]

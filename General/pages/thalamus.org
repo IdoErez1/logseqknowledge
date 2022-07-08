@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a1878e75-0fd3-4d6c-bbfd-bfc660f3c2e7
+:END:
+#+title: thalamus
+#+date: [2022-06-27 Mon 11:49]
+#+filetags:
+
+* Content
+** an egg shaped structure in the middle of the brain.
+** is part of the [[id:2b1537c7-69ec-49dc-a5dd-7a53a477bf6d][limbic system]]
+** known as the relay station for all sensory and motor information(movement, sight, taste, touch) from your body to your brain
+**
+* References
+** https://my.clevelandclinic.org/health/body/22652-thalamus

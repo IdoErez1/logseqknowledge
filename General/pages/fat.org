@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b94b2fbc-9eb9-4bdb-9a3f-5a7cbb9e7b31
+:END:
+#+title: fat
+#+date: [2022-06-22 Wed 10:51]
+#+filetags: :nutrition:
+
+* Content
+** [[id:42aa4f8b-3405-4210-913c-9b1fc2968da3][uses of fat]]
+** made from fatty acids that are avalible in different types:
+*** [[id:62651aa0-8b73-46bf-85f6-b46810574fb1][saturated fatty acids]]
+*** monounsaturated fatty acids
+*** polyunsaturated fatty acids
+*** trans fat
+** fat is carried to the cells inside [[id:71f21efc-d8e8-43ce-abea-4ba2f2e93c11][lipoproteins]]
+** The amount of fat in your body is unrelated to the amount of fat you eat. fat can also be created from [[id:7ed3533d-9ca8-4534-ab2f-53220c79de8d][carbohydrates]] and [[id:704fa7bd-b094-42df-b46f-f954bcf0c5ae][protein]]
+
+* References

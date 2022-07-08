@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8e1fbc6a-882e-4783-8194-c1f304dbb4d0
+:END:
+#+title: habits
+#+date: [2022-06-22 Wed 07:51]
+* Content
+** Habbits are things you're brain automaticlly does when presented with a cue
+** habbits do not require mental resources since your brain does them automaticly
+** habits are made up of 3 stages:
+*** the cue - something that invokes the habit. can be a time of day, place, feeling, presence of other people or previous behaviour
+*** the action - the action itself that is triggerd by the cue
+*** the reward - this gives the brain the reason to strengthem the habit. needs to be something neurological like a feeling of satisfaction or acomplishment
+** the easiest way to try and prevent distractions is to try to prevent the cue from triggering
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

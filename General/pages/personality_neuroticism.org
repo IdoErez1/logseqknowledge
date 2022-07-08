@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e1f06a56-07b6-480a-a3e4-7b747f76241c
+:END:
+#+title: personality neuroticism
+#+date: [2022-06-20 Mon 10:58]
+* Content
+** neuroticism is a personality trait that is a measure of how much you are stressed, worried about the outcomes and their consiquences, have a very high self image - think people are more aware of you than they really are, and susceptable to depression
+** This is a spectrum. Some people are just more neurotic than others
+** women tend to be more neurotic then men.
+
+
+* Related Pages
+[[id:e5280103-5677-453a-8faf-8cfbbc67827d][big 5 personality traits]]
+
+* References

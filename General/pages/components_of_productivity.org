@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       80faef5a-04ea-402c-9d3a-de3b2a5eb253
+:END:
+#+title: components of productivity
+#+date: [2022-06-21 Tue 13:14]
+#+filetags: :Productivity:
+
+* Content
+** There are 3 main factors that influence productivity:
+*** [[id:e8ee47f5-3cf6-44bb-b712-08bee7dea347][managing time]]
+*** focus
+*** energy
+** The amount you need of each depends on what you do.
+*** If you do something that requires high level of thought the most important thing is focus
+*** If you do manual automatic labor work the most important thing is time
+
+* References
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

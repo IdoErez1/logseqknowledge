@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7584df91-2540-4e43-a0cb-b9aa2e098e00
+:END:
+#+title: for more motivation reduce obstacles
+#+date: [2022-06-21 Tue 09:47]
+* Content
+** If you want to increase the chance you will have enough motivation to do something you can reduce obstacles.
+** for example if you struggle to wake up in the morning to go for a run you will have a higher chance of doing it if you sleep in your sports clothes and have your running shoes beside you
+** Disconnecting from the internet and keeping your phone away will block access and make it harder to [[id:778e7de2-6196-4aee-b597-c84e17f68d49][procrastinate]]
+
+* References
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]
+[[id:524ef454-cf8d-4573-a23c-86a5d8012335][The Productivity Project]]

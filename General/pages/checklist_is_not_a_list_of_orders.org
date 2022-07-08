@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       016b13e5-d44d-42b2-816c-428b8889e607
+:END:
+#+title: checklist is not a list of orders
+#+date: [2022-06-22 Wed 09:22]
+* Content
+** What is written in the checklist isn't a holy unchangeable command
+** The experts can interpret it and change it according to their judgement, experience and expertise
+
+* References
+[[id:ae811ef3-6e5f-4546-be34-b00ad2eb50fa][The Checklist Manifesto]]

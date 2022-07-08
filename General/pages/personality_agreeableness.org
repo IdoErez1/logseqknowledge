@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       93b630a6-5463-4331-93a8-55b4aa32357c
+:END:
+#+title: personality agreeableness
+#+date: [2022-06-20 Mon 11:06]
+* Content
+** A personality trait that is defined by a number of attributes:
+*** Empathizes with people easily
+*** Trusts people easily
+*** optimistic
+** people without agreeableness are more likely to fight with other people and advance in the corprate structure.
+** woman are more agreeable then men
+
+* Related Pages
+[[id:e5280103-5677-453a-8faf-8cfbbc67827d][big 5 personality traits]]
+
+* References

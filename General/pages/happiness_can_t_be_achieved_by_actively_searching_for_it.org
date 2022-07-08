@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       c35c4ac5-7c28-48b2-be2f-b25fd1f917f2
+:END:
+#+title: Happiness can't be achieved by actively searching for it
+#+date: [2022-06-20 Mon 17:19]
+* Content
+** You can't achieve happiness by actively searching for it - it is a byproduct of dedicating oneself to something greater
+*** [[id:ccb00cf7-31a4-4a69-9942-a43df0906364][flow experience]]
+** Around only 10% of happiness is because of life circumstances. Therefore your state of mind determines most of the happiness you feel
+
+* References
+[[id:6c81c436-2986-4817-9eea-e17f12c434d7][The Happiness Equation]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b2a49708-ef6f-41e2-b431-54425d6e57b1
+:END:
+#+title: we live in a specialized society
+#+date: [2022-06-22 Wed 08:50]
+
+* Content
+** today people require more and more specialization
+** this means people are experts in a more narrow field
+** this is a result of the increasing amount of knowledge and limited human capabilities
+* References
+[[@The Checklist Manifesto: How to Get Things Right]] /

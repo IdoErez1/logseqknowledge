@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6b5e4680-d392-49af-a897-7bba60260bb7
+:END:
+#+title: pythagoras theorem
+#+date: [2022-06-29 Wed 10:25]
+#+filetags: :Mathematics:
+
+* Content
+** Geometric therorem
+** States that in a right angle triangle the square made out of the length of the hypotenuse is equal to the sum of the area of the squares made from the two other sides
+** Proof:
+*** #+DOWNLOADED: screenshot @ 2022-06-29 10:32:13
+[[file:../../Pictures/org-downloads/Content/2022-06-29_10-32-13_screenshot.png]]
+*** The area in these two diagrams are the same since they have the same side length
+*** The triangles are congruent according to Side - Angle - Side
+*** therefore if we subtract the area of the entire square minus the 4 triangles from both diagrams we get that the big square is equal to the sum of the two smaller ones
+*** the big square is a square since all 4 sides are equal and there is a right degree angle via angle subtraction
+* References
+** [[id:162c0b01-a759-4bbc-b800-4904bd6695ff][Invitation to mathematics coursera]]

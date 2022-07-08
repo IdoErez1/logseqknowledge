@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       43156d9c-240c-40fe-8c95-b0766b6f7be5
+:END:
+#+title: management of rare events with checklist
+#+date: [2022-06-22 Wed 09:20]
+* Content
+** there are rare events that can possibly not happend to someone during his entire carreer
+** the expert will not have the neccessary knowledge of what to do.
+** therefore it is useful to have an emergency list the contains the best course of action according to past events
+
+* References
+[[id:ae811ef3-6e5f-4546-be34-b00ad2eb50fa][The Checklist Manifesto]]

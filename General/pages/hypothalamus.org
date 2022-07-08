@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8bf2140c-322c-4374-bbf9-1d3e53ba44f5
+:END:
+#+title: hypothalamus
+#+date: [2022-06-27 Mon 11:45]
+#+filetags:
+
+* Content
+** a part of the [[id:2b1537c7-69ec-49dc-a5dd-7a53a477bf6d][limbic system]] who's job is to keep the body in [[id:40b83230-67ae-4e3d-900e-f830232a6e37][homeostasis]].
+** it does this by:
+*** releasing [[id:44082111-5bb9-471b-9ba6-5111fe0d5821][hormones]]
+*** maintaining daily physiological cycle
+*** contolling appetite
+*** managing sexual behavior
+*** regulating emotional response
+*** regulate body temperature
+** #+DOWNLOADED: screenshot @ 2022-06-27 11:48:31
+[[file:../../Pictures/org-downloads/Content/2022-06-27_11-48-31_screenshot.png]]
+* References
+** https://www.healthline.com/human-body-maps/hypothalamus

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       6753d3de-3cd6-4851-88fd-a22e0f9273dc
+:END:
+#+title: brain
+#+date: [2022-06-24 Fri 06:50]
+#+filetags: :Neurology:Anatomy:
+
+* Content
+** you can divide the brain by layers based on it's primitiveness. the outer layers of the brain is what evolved last while the inner layers are the most primitive:
+*** the most primitive - the [[id:80d04fbb-a39a-454c-ac83-e4b0f492b9b9][reptilian brain]]
+*** the second layer - the [[id:baea27a3-f042-4aa2-9acc-271a8a190bb5][paleomammalian brain]]
+*** the last layer - the [[id:b35284e1-022b-41c4-8e37-176886d7993b][neomammalian brain]]
+** #+DOWNLOADED: screenshot @ 2022-06-27 11:54:50
+[[file:../../Pictures/org-downloads/Content/2022-06-27_11-54-50_screenshot.png]]
+* References
+** [[id:0b77b034-76c1-4677-859f-dbc8ba1ca3b0][A History of the Human Brain: From the Sea Sponge to CRISPR, How Our Brain Evolved]]

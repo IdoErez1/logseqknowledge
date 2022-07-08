@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       b7ecca55-94bd-49aa-b666-2f5a38f583e0
+:END:
+#+title: consciousness psychology
+#+date: [2022-06-20 Mon 14:14]
+
+*
+** Things that are in your consciousness are things you are mentally aware of
+** [[attention psychology]] makes information enter consciousness
+** related to the [[prefrontal cortex]]

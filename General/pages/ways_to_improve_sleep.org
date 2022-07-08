@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b7b4dc37-cc2c-4573-b00d-5d48363ce3df
+:END:
+#+title: ways to improve sleep
+#+date: [2022-06-22 Wed 07:58]
+
+* Content
+** reduce blue light
+** don't drink coffee 8-14 hours before sleep
+** create a bedtime ritual - define a time for entering bed. move your phone away. you can also try meditation
+** turn your room into a cave - cold dark and quiet
+* References
+[[@The Productivity Project: Accomplishing More by Managing Your Time, Attention, and Energy]]
